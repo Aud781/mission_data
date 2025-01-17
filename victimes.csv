@@ -1,0 +1,865 @@
+,classe,annee,Code.région,faits
+0,Homicides,16,1,32
+1,Homicides,16,2,18
+2,Homicides,16,3,41
+3,Homicides,16,4,14
+4,Homicides,16,6,10
+5,Homicides,16,11,123
+6,Homicides,16,24,27
+7,Homicides,16,27,23
+8,Homicides,16,28,33
+9,Homicides,16,32,73
+10,Homicides,16,44,70
+11,Homicides,16,52,30
+12,Homicides,16,53,21
+13,Homicides,16,75,65
+14,Homicides,16,76,65
+15,Homicides,16,84,87
+16,Homicides,16,93,165
+17,Homicides,16,94,14
+18,Homicides,17,1,37
+19,Homicides,17,2,11
+20,Homicides,17,3,22
+21,Homicides,17,4,17
+22,Homicides,17,6,2
+23,Homicides,17,11,129
+24,Homicides,17,24,25
+25,Homicides,17,27,30
+26,Homicides,17,28,27
+27,Homicides,17,32,73
+28,Homicides,17,44,49
+29,Homicides,17,52,35
+30,Homicides,17,53,29
+31,Homicides,17,75,63
+32,Homicides,17,76,63
+33,Homicides,17,84,88
+34,Homicides,17,93,109
+35,Homicides,17,94,17
+36,Homicides,18,1,18
+37,Homicides,18,2,15
+38,Homicides,18,3,23
+39,Homicides,18,4,16
+40,Homicides,18,6,7
+41,Homicides,18,11,126
+42,Homicides,18,24,21
+43,Homicides,18,27,30
+44,Homicides,18,28,24
+45,Homicides,18,32,89
+46,Homicides,18,44,50
+47,Homicides,18,52,39
+48,Homicides,18,53,24
+49,Homicides,18,75,60
+50,Homicides,18,76,74
+51,Homicides,18,84,78
+52,Homicides,18,93,127
+53,Homicides,18,94,10
+54,Homicides,19,1,15
+55,Homicides,19,2,26
+56,Homicides,19,3,32
+57,Homicides,19,4,15
+58,Homicides,19,6,10
+59,Homicides,19,11,140
+60,Homicides,19,24,26
+61,Homicides,19,27,26
+62,Homicides,19,28,37
+63,Homicides,19,32,70
+64,Homicides,19,44,67
+65,Homicides,19,52,33
+66,Homicides,19,53,27
+67,Homicides,19,75,63
+68,Homicides,19,76,75
+69,Homicides,19,84,88
+70,Homicides,19,93,98
+71,Homicides,19,94,9
+72,Homicides,20,1,25
+73,Homicides,20,2,19
+74,Homicides,20,3,43
+75,Homicides,20,4,11
+76,Homicides,20,6,14
+77,Homicides,20,11,122
+78,Homicides,20,24,26
+79,Homicides,20,27,24
+80,Homicides,20,28,46
+81,Homicides,20,32,69
+82,Homicides,20,44,53
+83,Homicides,20,52,27
+84,Homicides,20,53,20
+85,Homicides,20,75,77
+86,Homicides,20,76,64
+87,Homicides,20,84,83
+88,Homicides,20,93,92
+89,Homicides,20,94,8
+90,Homicides,21,1,23
+91,Homicides,21,2,18
+92,Homicides,21,3,28
+93,Homicides,21,4,17
+94,Homicides,21,6,11
+95,Homicides,21,11,180
+96,Homicides,21,24,24
+97,Homicides,21,27,23
+98,Homicides,21,28,36
+99,Homicides,21,32,64
+100,Homicides,21,44,52
+101,Homicides,21,52,35
+102,Homicides,21,53,38
+103,Homicides,21,75,69
+104,Homicides,21,76,77
+105,Homicides,21,84,67
+106,Homicides,21,93,106
+107,Homicides,21,94,14
+108,Homicides,22,1,27
+109,Homicides,22,2,29
+110,Homicides,22,3,48
+111,Homicides,22,4,17
+112,Homicides,22,6,14
+113,Homicides,22,11,140
+114,Homicides,22,24,30
+115,Homicides,22,27,34
+116,Homicides,22,28,33
+117,Homicides,22,32,67
+118,Homicides,22,44,62
+119,Homicides,22,52,48
+120,Homicides,22,53,54
+121,Homicides,22,75,65
+122,Homicides,22,76,77
+123,Homicides,22,84,78
+124,Homicides,22,93,124
+125,Homicides,22,94,12
+126,Homicides,23,1,37
+127,Homicides,23,2,26
+128,Homicides,23,3,58
+129,Homicides,23,4,19
+130,Homicides,23,6,14
+131,Homicides,23,11,156
+132,Homicides,23,24,29
+133,Homicides,23,27,21
+134,Homicides,23,28,47
+135,Homicides,23,32,92
+136,Homicides,23,44,44
+137,Homicides,23,52,35
+138,Homicides,23,53,41
+139,Homicides,23,75,68
+140,Homicides,23,76,79
+141,Homicides,23,84,84
+142,Homicides,23,93,134
+143,Homicides,23,94,12
+144,Coups et blessures volontaires,16,1,2501
+145,Coups et blessures volontaires,16,2,2102
+146,Coups et blessures volontaires,16,3,2007
+147,Coups et blessures volontaires,16,4,4181
+148,Coups et blessures volontaires,16,6,1388
+149,Coups et blessures volontaires,16,11,45946
+150,Coups et blessures volontaires,16,24,6797
+151,Coups et blessures volontaires,16,27,8191
+152,Coups et blessures volontaires,16,28,9519
+153,Coups et blessures volontaires,16,32,23422
+154,Coups et blessures volontaires,16,44,16833
+155,Coups et blessures volontaires,16,52,9004
+156,Coups et blessures volontaires,16,53,7470
+157,Coups et blessures volontaires,16,75,14871
+158,Coups et blessures volontaires,16,76,17709
+159,Coups et blessures volontaires,16,84,22506
+160,Coups et blessures volontaires,16,93,19376
+161,Coups et blessures volontaires,16,94,915
+162,Coups et blessures volontaires,17,1,2365
+163,Coups et blessures volontaires,17,2,2180
+164,Coups et blessures volontaires,17,3,2054
+165,Coups et blessures volontaires,17,4,4363
+166,Coups et blessures volontaires,17,6,1421
+167,Coups et blessures volontaires,17,11,47168
+168,Coups et blessures volontaires,17,24,7241
+169,Coups et blessures volontaires,17,27,8572
+170,Coups et blessures volontaires,17,28,9632
+171,Coups et blessures volontaires,17,32,23518
+172,Coups et blessures volontaires,17,44,17530
+173,Coups et blessures volontaires,17,52,9741
+174,Coups et blessures volontaires,17,53,8178
+175,Coups et blessures volontaires,17,75,15526
+176,Coups et blessures volontaires,17,76,18523
+177,Coups et blessures volontaires,17,84,22680
+178,Coups et blessures volontaires,17,93,19136
+179,Coups et blessures volontaires,17,94,922
+180,Coups et blessures volontaires,18,1,2500
+181,Coups et blessures volontaires,18,2,2229
+182,Coups et blessures volontaires,18,3,2083
+183,Coups et blessures volontaires,18,4,4606
+184,Coups et blessures volontaires,18,6,1346
+185,Coups et blessures volontaires,18,11,48970
+186,Coups et blessures volontaires,18,24,7729
+187,Coups et blessures volontaires,18,27,9071
+188,Coups et blessures volontaires,18,28,10448
+189,Coups et blessures volontaires,18,32,25383
+190,Coups et blessures volontaires,18,44,18361
+191,Coups et blessures volontaires,18,52,10283
+192,Coups et blessures volontaires,18,53,8561
+193,Coups et blessures volontaires,18,75,16752
+194,Coups et blessures volontaires,18,76,19794
+195,Coups et blessures volontaires,18,84,25074
+196,Coups et blessures volontaires,18,93,21211
+197,Coups et blessures volontaires,18,94,965
+198,Coups et blessures volontaires,19,1,2682
+199,Coups et blessures volontaires,19,2,2278
+200,Coups et blessures volontaires,19,3,2244
+201,Coups et blessures volontaires,19,4,4596
+202,Coups et blessures volontaires,19,6,1573
+203,Coups et blessures volontaires,19,11,51440
+204,Coups et blessures volontaires,19,24,8312
+205,Coups et blessures volontaires,19,27,9308
+206,Coups et blessures volontaires,19,28,10992
+207,Coups et blessures volontaires,19,32,27110
+208,Coups et blessures volontaires,19,44,19800
+209,Coups et blessures volontaires,19,52,11207
+210,Coups et blessures volontaires,19,53,9465
+211,Coups et blessures volontaires,19,75,18379
+212,Coups et blessures volontaires,19,76,21245
+213,Coups et blessures volontaires,19,84,27264
+214,Coups et blessures volontaires,19,93,22766
+215,Coups et blessures volontaires,19,94,1121
+216,Coups et blessures volontaires,20,1,2904
+217,Coups et blessures volontaires,20,2,2290
+218,Coups et blessures volontaires,20,3,2358
+219,Coups et blessures volontaires,20,4,4832
+220,Coups et blessures volontaires,20,6,1467
+221,Coups et blessures volontaires,20,11,50627
+222,Coups et blessures volontaires,20,24,8420
+223,Coups et blessures volontaires,20,27,9437
+224,Coups et blessures volontaires,20,28,10501
+225,Coups et blessures volontaires,20,32,26422
+226,Coups et blessures volontaires,20,44,19541
+227,Coups et blessures volontaires,20,52,11628
+228,Coups et blessures volontaires,20,53,10462
+229,Coups et blessures volontaires,20,75,18786
+230,Coups et blessures volontaires,20,76,21700
+231,Coups et blessures volontaires,20,84,27171
+232,Coups et blessures volontaires,20,93,22684
+233,Coups et blessures volontaires,20,94,1166
+234,Coups et blessures volontaires,21,1,2985
+235,Coups et blessures volontaires,21,2,2588
+236,Coups et blessures volontaires,21,3,2714
+237,Coups et blessures volontaires,21,4,5358
+238,Coups et blessures volontaires,21,6,1685
+239,Coups et blessures volontaires,21,11,55064
+240,Coups et blessures volontaires,21,24,9234
+241,Coups et blessures volontaires,21,27,10210
+242,Coups et blessures volontaires,21,28,12442
+243,Coups et blessures volontaires,21,32,30300
+244,Coups et blessures volontaires,21,44,22581
+245,Coups et blessures volontaires,21,52,12223
+246,Coups et blessures volontaires,21,53,10489
+247,Coups et blessures volontaires,21,75,21496
+248,Coups et blessures volontaires,21,76,23423
+249,Coups et blessures volontaires,21,84,30385
+250,Coups et blessures volontaires,21,93,24737
+251,Coups et blessures volontaires,21,94,1175
+252,Coups et blessures volontaires,22,1,3221
+253,Coups et blessures volontaires,22,2,2779
+254,Coups et blessures volontaires,22,3,2742
+255,Coups et blessures volontaires,22,4,5904
+256,Coups et blessures volontaires,22,6,1829
+257,Coups et blessures volontaires,22,11,64122
+258,Coups et blessures volontaires,22,24,10359
+259,Coups et blessures volontaires,22,27,11603
+260,Coups et blessures volontaires,22,28,14286
+261,Coups et blessures volontaires,22,32,34706
+262,Coups et blessures volontaires,22,44,25681
+263,Coups et blessures volontaires,22,52,14161
+264,Coups et blessures volontaires,22,53,12561
+265,Coups et blessures volontaires,22,75,25386
+266,Coups et blessures volontaires,22,76,27375
+267,Coups et blessures volontaires,22,84,34338
+268,Coups et blessures volontaires,22,93,27772
+269,Coups et blessures volontaires,22,94,1331
+270,Coups et blessures volontaires,23,1,3278
+271,Coups et blessures volontaires,23,2,2996
+272,Coups et blessures volontaires,23,3,2639
+273,Coups et blessures volontaires,23,4,6561
+274,Coups et blessures volontaires,23,6,1887
+275,Coups et blessures volontaires,23,11,65453
+276,Coups et blessures volontaires,23,24,11325
+277,Coups et blessures volontaires,23,27,12493
+278,Coups et blessures volontaires,23,28,16013
+279,Coups et blessures volontaires,23,32,36843
+280,Coups et blessures volontaires,23,44,27015
+281,Coups et blessures volontaires,23,52,14513
+282,Coups et blessures volontaires,23,53,13256
+283,Coups et blessures volontaires,23,75,26394
+284,Coups et blessures volontaires,23,76,28684
+285,Coups et blessures volontaires,23,84,35740
+286,Coups et blessures volontaires,23,93,28288
+287,Coups et blessures volontaires,23,94,1512
+288,Coups et blessures volontaires intrafamiliaux,16,1,946
+289,Coups et blessures volontaires intrafamiliaux,16,2,806
+290,Coups et blessures volontaires intrafamiliaux,16,3,751
+291,Coups et blessures volontaires intrafamiliaux,16,4,1997
+292,Coups et blessures volontaires intrafamiliaux,16,6,274
+293,Coups et blessures volontaires intrafamiliaux,16,11,21186
+294,Coups et blessures volontaires intrafamiliaux,16,24,3208
+295,Coups et blessures volontaires intrafamiliaux,16,27,3630
+296,Coups et blessures volontaires intrafamiliaux,16,28,4438
+297,Coups et blessures volontaires intrafamiliaux,16,32,10838
+298,Coups et blessures volontaires intrafamiliaux,16,44,7208
+299,Coups et blessures volontaires intrafamiliaux,16,52,4151
+300,Coups et blessures volontaires intrafamiliaux,16,53,3348
+301,Coups et blessures volontaires intrafamiliaux,16,75,6633
+302,Coups et blessures volontaires intrafamiliaux,16,76,7505
+303,Coups et blessures volontaires intrafamiliaux,16,84,9500
+304,Coups et blessures volontaires intrafamiliaux,16,93,8298
+305,Coups et blessures volontaires intrafamiliaux,16,94,362
+306,Coups et blessures volontaires intrafamiliaux,17,1,889
+307,Coups et blessures volontaires intrafamiliaux,17,2,835
+308,Coups et blessures volontaires intrafamiliaux,17,3,747
+309,Coups et blessures volontaires intrafamiliaux,17,4,2032
+310,Coups et blessures volontaires intrafamiliaux,17,6,292
+311,Coups et blessures volontaires intrafamiliaux,17,11,21529
+312,Coups et blessures volontaires intrafamiliaux,17,24,3324
+313,Coups et blessures volontaires intrafamiliaux,17,27,3802
+314,Coups et blessures volontaires intrafamiliaux,17,28,4412
+315,Coups et blessures volontaires intrafamiliaux,17,32,10825
+316,Coups et blessures volontaires intrafamiliaux,17,44,7512
+317,Coups et blessures volontaires intrafamiliaux,17,52,4336
+318,Coups et blessures volontaires intrafamiliaux,17,53,3513
+319,Coups et blessures volontaires intrafamiliaux,17,75,6747
+320,Coups et blessures volontaires intrafamiliaux,17,76,7695
+321,Coups et blessures volontaires intrafamiliaux,17,84,9290
+322,Coups et blessures volontaires intrafamiliaux,17,93,8238
+323,Coups et blessures volontaires intrafamiliaux,17,94,359
+324,Coups et blessures volontaires intrafamiliaux,18,1,1014
+325,Coups et blessures volontaires intrafamiliaux,18,2,968
+326,Coups et blessures volontaires intrafamiliaux,18,3,769
+327,Coups et blessures volontaires intrafamiliaux,18,4,2191
+328,Coups et blessures volontaires intrafamiliaux,18,6,277
+329,Coups et blessures volontaires intrafamiliaux,18,11,22462
+330,Coups et blessures volontaires intrafamiliaux,18,24,3517
+331,Coups et blessures volontaires intrafamiliaux,18,27,4098
+332,Coups et blessures volontaires intrafamiliaux,18,28,4659
+333,Coups et blessures volontaires intrafamiliaux,18,32,12009
+334,Coups et blessures volontaires intrafamiliaux,18,44,8187
+335,Coups et blessures volontaires intrafamiliaux,18,52,4688
+336,Coups et blessures volontaires intrafamiliaux,18,53,3813
+337,Coups et blessures volontaires intrafamiliaux,18,75,7457
+338,Coups et blessures volontaires intrafamiliaux,18,76,8379
+339,Coups et blessures volontaires intrafamiliaux,18,84,10642
+340,Coups et blessures volontaires intrafamiliaux,18,93,9136
+341,Coups et blessures volontaires intrafamiliaux,18,94,384
+342,Coups et blessures volontaires intrafamiliaux,19,1,1132
+343,Coups et blessures volontaires intrafamiliaux,19,2,1030
+344,Coups et blessures volontaires intrafamiliaux,19,3,905
+345,Coups et blessures volontaires intrafamiliaux,19,4,2464
+346,Coups et blessures volontaires intrafamiliaux,19,6,373
+347,Coups et blessures volontaires intrafamiliaux,19,11,25128
+348,Coups et blessures volontaires intrafamiliaux,19,24,4233
+349,Coups et blessures volontaires intrafamiliaux,19,27,4638
+350,Coups et blessures volontaires intrafamiliaux,19,28,5230
+351,Coups et blessures volontaires intrafamiliaux,19,32,13979
+352,Coups et blessures volontaires intrafamiliaux,19,44,9615
+353,Coups et blessures volontaires intrafamiliaux,19,52,5417
+354,Coups et blessures volontaires intrafamiliaux,19,53,4409
+355,Coups et blessures volontaires intrafamiliaux,19,75,8623
+356,Coups et blessures volontaires intrafamiliaux,19,76,9450
+357,Coups et blessures volontaires intrafamiliaux,19,84,12527
+358,Coups et blessures volontaires intrafamiliaux,19,93,10646
+359,Coups et blessures volontaires intrafamiliaux,19,94,527
+360,Coups et blessures volontaires intrafamiliaux,20,1,1401
+361,Coups et blessures volontaires intrafamiliaux,20,2,1106
+362,Coups et blessures volontaires intrafamiliaux,20,3,1032
+363,Coups et blessures volontaires intrafamiliaux,20,4,2712
+364,Coups et blessures volontaires intrafamiliaux,20,6,361
+365,Coups et blessures volontaires intrafamiliaux,20,11,27160
+366,Coups et blessures volontaires intrafamiliaux,20,24,4604
+367,Coups et blessures volontaires intrafamiliaux,20,27,5021
+368,Coups et blessures volontaires intrafamiliaux,20,28,5564
+369,Coups et blessures volontaires intrafamiliaux,20,32,14724
+370,Coups et blessures volontaires intrafamiliaux,20,44,10544
+371,Coups et blessures volontaires intrafamiliaux,20,52,6345
+372,Coups et blessures volontaires intrafamiliaux,20,53,5705
+373,Coups et blessures volontaires intrafamiliaux,20,75,9774
+374,Coups et blessures volontaires intrafamiliaux,20,76,10778
+375,Coups et blessures volontaires intrafamiliaux,20,84,13780
+376,Coups et blessures volontaires intrafamiliaux,20,93,11441
+377,Coups et blessures volontaires intrafamiliaux,20,94,569
+378,Coups et blessures volontaires intrafamiliaux,21,1,1471
+379,Coups et blessures volontaires intrafamiliaux,21,2,1272
+380,Coups et blessures volontaires intrafamiliaux,21,3,1213
+381,Coups et blessures volontaires intrafamiliaux,21,4,3184
+382,Coups et blessures volontaires intrafamiliaux,21,6,518
+383,Coups et blessures volontaires intrafamiliaux,21,11,30150
+384,Coups et blessures volontaires intrafamiliaux,21,24,5337
+385,Coups et blessures volontaires intrafamiliaux,21,27,5576
+386,Coups et blessures volontaires intrafamiliaux,21,28,6885
+387,Coups et blessures volontaires intrafamiliaux,21,32,17605
+388,Coups et blessures volontaires intrafamiliaux,21,44,12741
+389,Coups et blessures volontaires intrafamiliaux,21,52,6772
+390,Coups et blessures volontaires intrafamiliaux,21,53,5854
+391,Coups et blessures volontaires intrafamiliaux,21,75,12130
+392,Coups et blessures volontaires intrafamiliaux,21,76,12139
+393,Coups et blessures volontaires intrafamiliaux,21,84,15547
+394,Coups et blessures volontaires intrafamiliaux,21,93,12697
+395,Coups et blessures volontaires intrafamiliaux,21,94,585
+396,Coups et blessures volontaires intrafamiliaux,22,1,1735
+397,Coups et blessures volontaires intrafamiliaux,22,2,1476
+398,Coups et blessures volontaires intrafamiliaux,22,3,1293
+399,Coups et blessures volontaires intrafamiliaux,22,4,3719
+400,Coups et blessures volontaires intrafamiliaux,22,6,568
+401,Coups et blessures volontaires intrafamiliaux,22,11,35503
+402,Coups et blessures volontaires intrafamiliaux,22,24,5949
+403,Coups et blessures volontaires intrafamiliaux,22,27,6399
+404,Coups et blessures volontaires intrafamiliaux,22,28,8105
+405,Coups et blessures volontaires intrafamiliaux,22,32,20999
+406,Coups et blessures volontaires intrafamiliaux,22,44,14560
+407,Coups et blessures volontaires intrafamiliaux,22,52,7799
+408,Coups et blessures volontaires intrafamiliaux,22,53,7019
+409,Coups et blessures volontaires intrafamiliaux,22,75,14202
+410,Coups et blessures volontaires intrafamiliaux,22,76,14407
+411,Coups et blessures volontaires intrafamiliaux,22,84,17874
+412,Coups et blessures volontaires intrafamiliaux,22,93,14841
+413,Coups et blessures volontaires intrafamiliaux,22,94,708
+414,Coups et blessures volontaires intrafamiliaux,23,1,1716
+415,Coups et blessures volontaires intrafamiliaux,23,2,1712
+416,Coups et blessures volontaires intrafamiliaux,23,3,1327
+417,Coups et blessures volontaires intrafamiliaux,23,4,4087
+418,Coups et blessures volontaires intrafamiliaux,23,6,530
+419,Coups et blessures volontaires intrafamiliaux,23,11,37223
+420,Coups et blessures volontaires intrafamiliaux,23,24,6904
+421,Coups et blessures volontaires intrafamiliaux,23,27,7178
+422,Coups et blessures volontaires intrafamiliaux,23,28,9527
+423,Coups et blessures volontaires intrafamiliaux,23,32,23052
+424,Coups et blessures volontaires intrafamiliaux,23,44,15637
+425,Coups et blessures volontaires intrafamiliaux,23,52,8535
+426,Coups et blessures volontaires intrafamiliaux,23,53,7766
+427,Coups et blessures volontaires intrafamiliaux,23,75,15161
+428,Coups et blessures volontaires intrafamiliaux,23,76,15530
+429,Coups et blessures volontaires intrafamiliaux,23,84,19449
+430,Coups et blessures volontaires intrafamiliaux,23,93,15501
+431,Coups et blessures volontaires intrafamiliaux,23,94,844
+432,Autres coups et blessures volontaires,16,1,1555
+433,Autres coups et blessures volontaires,16,2,1296
+434,Autres coups et blessures volontaires,16,3,1256
+435,Autres coups et blessures volontaires,16,4,2184
+436,Autres coups et blessures volontaires,16,6,1114
+437,Autres coups et blessures volontaires,16,11,24760
+438,Autres coups et blessures volontaires,16,24,3589
+439,Autres coups et blessures volontaires,16,27,4561
+440,Autres coups et blessures volontaires,16,28,5081
+441,Autres coups et blessures volontaires,16,32,12584
+442,Autres coups et blessures volontaires,16,44,9625
+443,Autres coups et blessures volontaires,16,52,4853
+444,Autres coups et blessures volontaires,16,53,4122
+445,Autres coups et blessures volontaires,16,75,8238
+446,Autres coups et blessures volontaires,16,76,10204
+447,Autres coups et blessures volontaires,16,84,13006
+448,Autres coups et blessures volontaires,16,93,11078
+449,Autres coups et blessures volontaires,16,94,553
+450,Autres coups et blessures volontaires,17,1,1476
+451,Autres coups et blessures volontaires,17,2,1345
+452,Autres coups et blessures volontaires,17,3,1307
+453,Autres coups et blessures volontaires,17,4,2331
+454,Autres coups et blessures volontaires,17,6,1129
+455,Autres coups et blessures volontaires,17,11,25639
+456,Autres coups et blessures volontaires,17,24,3917
+457,Autres coups et blessures volontaires,17,27,4770
+458,Autres coups et blessures volontaires,17,28,5220
+459,Autres coups et blessures volontaires,17,32,12693
+460,Autres coups et blessures volontaires,17,44,10018
+461,Autres coups et blessures volontaires,17,52,5405
+462,Autres coups et blessures volontaires,17,53,4665
+463,Autres coups et blessures volontaires,17,75,8779
+464,Autres coups et blessures volontaires,17,76,10828
+465,Autres coups et blessures volontaires,17,84,13390
+466,Autres coups et blessures volontaires,17,93,10898
+467,Autres coups et blessures volontaires,17,94,563
+468,Autres coups et blessures volontaires,18,1,1486
+469,Autres coups et blessures volontaires,18,2,1261
+470,Autres coups et blessures volontaires,18,3,1314
+471,Autres coups et blessures volontaires,18,4,2415
+472,Autres coups et blessures volontaires,18,6,1069
+473,Autres coups et blessures volontaires,18,11,26508
+474,Autres coups et blessures volontaires,18,24,4212
+475,Autres coups et blessures volontaires,18,27,4973
+476,Autres coups et blessures volontaires,18,28,5789
+477,Autres coups et blessures volontaires,18,32,13374
+478,Autres coups et blessures volontaires,18,44,10174
+479,Autres coups et blessures volontaires,18,52,5595
+480,Autres coups et blessures volontaires,18,53,4748
+481,Autres coups et blessures volontaires,18,75,9295
+482,Autres coups et blessures volontaires,18,76,11415
+483,Autres coups et blessures volontaires,18,84,14432
+484,Autres coups et blessures volontaires,18,93,12075
+485,Autres coups et blessures volontaires,18,94,581
+486,Autres coups et blessures volontaires,19,1,1550
+487,Autres coups et blessures volontaires,19,2,1248
+488,Autres coups et blessures volontaires,19,3,1339
+489,Autres coups et blessures volontaires,19,4,2132
+490,Autres coups et blessures volontaires,19,6,1200
+491,Autres coups et blessures volontaires,19,11,26312
+492,Autres coups et blessures volontaires,19,24,4079
+493,Autres coups et blessures volontaires,19,27,4670
+494,Autres coups et blessures volontaires,19,28,5762
+495,Autres coups et blessures volontaires,19,32,13131
+496,Autres coups et blessures volontaires,19,44,10185
+497,Autres coups et blessures volontaires,19,52,5790
+498,Autres coups et blessures volontaires,19,53,5056
+499,Autres coups et blessures volontaires,19,75,9756
+500,Autres coups et blessures volontaires,19,76,11795
+501,Autres coups et blessures volontaires,19,84,14737
+502,Autres coups et blessures volontaires,19,93,12120
+503,Autres coups et blessures volontaires,19,94,594
+504,Autres coups et blessures volontaires,20,1,1503
+505,Autres coups et blessures volontaires,20,2,1184
+506,Autres coups et blessures volontaires,20,3,1326
+507,Autres coups et blessures volontaires,20,4,2120
+508,Autres coups et blessures volontaires,20,6,1106
+509,Autres coups et blessures volontaires,20,11,23467
+510,Autres coups et blessures volontaires,20,24,3816
+511,Autres coups et blessures volontaires,20,27,4416
+512,Autres coups et blessures volontaires,20,28,4937
+513,Autres coups et blessures volontaires,20,32,11698
+514,Autres coups et blessures volontaires,20,44,8997
+515,Autres coups et blessures volontaires,20,52,5283
+516,Autres coups et blessures volontaires,20,53,4757
+517,Autres coups et blessures volontaires,20,75,9012
+518,Autres coups et blessures volontaires,20,76,10922
+519,Autres coups et blessures volontaires,20,84,13391
+520,Autres coups et blessures volontaires,20,93,11243
+521,Autres coups et blessures volontaires,20,94,597
+522,Autres coups et blessures volontaires,21,1,1514
+523,Autres coups et blessures volontaires,21,2,1316
+524,Autres coups et blessures volontaires,21,3,1501
+525,Autres coups et blessures volontaires,21,4,2174
+526,Autres coups et blessures volontaires,21,6,1167
+527,Autres coups et blessures volontaires,21,11,24914
+528,Autres coups et blessures volontaires,21,24,3897
+529,Autres coups et blessures volontaires,21,27,4634
+530,Autres coups et blessures volontaires,21,28,5557
+531,Autres coups et blessures volontaires,21,32,12695
+532,Autres coups et blessures volontaires,21,44,9840
+533,Autres coups et blessures volontaires,21,52,5451
+534,Autres coups et blessures volontaires,21,53,4635
+535,Autres coups et blessures volontaires,21,75,9366
+536,Autres coups et blessures volontaires,21,76,11284
+537,Autres coups et blessures volontaires,21,84,14838
+538,Autres coups et blessures volontaires,21,93,12040
+539,Autres coups et blessures volontaires,21,94,590
+540,Autres coups et blessures volontaires,22,1,1486
+541,Autres coups et blessures volontaires,22,2,1303
+542,Autres coups et blessures volontaires,22,3,1449
+543,Autres coups et blessures volontaires,22,4,2185
+544,Autres coups et blessures volontaires,22,6,1261
+545,Autres coups et blessures volontaires,22,11,28619
+546,Autres coups et blessures volontaires,22,24,4410
+547,Autres coups et blessures volontaires,22,27,5204
+548,Autres coups et blessures volontaires,22,28,6181
+549,Autres coups et blessures volontaires,22,32,13707
+550,Autres coups et blessures volontaires,22,44,11121
+551,Autres coups et blessures volontaires,22,52,6362
+552,Autres coups et blessures volontaires,22,53,5542
+553,Autres coups et blessures volontaires,22,75,11184
+554,Autres coups et blessures volontaires,22,76,12968
+555,Autres coups et blessures volontaires,22,84,16464
+556,Autres coups et blessures volontaires,22,93,12931
+557,Autres coups et blessures volontaires,22,94,623
+558,Autres coups et blessures volontaires,23,1,1562
+559,Autres coups et blessures volontaires,23,2,1284
+560,Autres coups et blessures volontaires,23,3,1312
+561,Autres coups et blessures volontaires,23,4,2474
+562,Autres coups et blessures volontaires,23,6,1357
+563,Autres coups et blessures volontaires,23,11,28230
+564,Autres coups et blessures volontaires,23,24,4421
+565,Autres coups et blessures volontaires,23,27,5315
+566,Autres coups et blessures volontaires,23,28,6486
+567,Autres coups et blessures volontaires,23,32,13791
+568,Autres coups et blessures volontaires,23,44,11378
+569,Autres coups et blessures volontaires,23,52,5978
+570,Autres coups et blessures volontaires,23,53,5490
+571,Autres coups et blessures volontaires,23,75,11233
+572,Autres coups et blessures volontaires,23,76,13154
+573,Autres coups et blessures volontaires,23,84,16291
+574,Autres coups et blessures volontaires,23,93,12787
+575,Autres coups et blessures volontaires,23,94,668
+576,Violences sexuelles,16,1,352
+577,Violences sexuelles,16,2,328
+578,Violences sexuelles,16,3,366
+579,Violences sexuelles,16,4,956
+580,Violences sexuelles,16,6,280
+581,Violences sexuelles,16,11,9956
+582,Violences sexuelles,16,24,2121
+583,Violences sexuelles,16,27,2109
+584,Violences sexuelles,16,28,2811
+585,Violences sexuelles,16,32,5701
+586,Violences sexuelles,16,44,4023
+587,Violences sexuelles,16,52,3006
+588,Violences sexuelles,16,53,2266
+589,Violences sexuelles,16,75,4492
+590,Violences sexuelles,16,76,4048
+591,Violences sexuelles,16,84,5332
+592,Violences sexuelles,16,93,3581
+593,Violences sexuelles,16,94,182
+594,Violences sexuelles,17,1,397
+595,Violences sexuelles,17,2,380
+596,Violences sexuelles,17,3,405
+597,Violences sexuelles,17,4,1098
+598,Violences sexuelles,17,6,219
+599,Violences sexuelles,17,11,10608
+600,Violences sexuelles,17,24,2216
+601,Violences sexuelles,17,27,2461
+602,Violences sexuelles,17,28,3125
+603,Violences sexuelles,17,32,6113
+604,Violences sexuelles,17,44,4539
+605,Violences sexuelles,17,52,3389
+606,Violences sexuelles,17,53,2457
+607,Violences sexuelles,17,75,4955
+608,Violences sexuelles,17,76,4662
+609,Violences sexuelles,17,84,5816
+610,Violences sexuelles,17,93,3948
+611,Violences sexuelles,17,94,210
+612,Violences sexuelles,18,1,413
+613,Violences sexuelles,18,2,432
+614,Violences sexuelles,18,3,447
+615,Violences sexuelles,18,4,1133
+616,Violences sexuelles,18,6,302
+617,Violences sexuelles,18,11,13137
+618,Violences sexuelles,18,24,2620
+619,Violences sexuelles,18,27,2814
+620,Violences sexuelles,18,28,3628
+621,Violences sexuelles,18,32,7280
+622,Violences sexuelles,18,44,5257
+623,Violences sexuelles,18,52,4031
+624,Violences sexuelles,18,53,3029
+625,Violences sexuelles,18,75,5646
+626,Violences sexuelles,18,76,5492
+627,Violences sexuelles,18,84,7006
+628,Violences sexuelles,18,93,4572
+629,Violences sexuelles,18,94,233
+630,Violences sexuelles,19,1,453
+631,Violences sexuelles,19,2,497
+632,Violences sexuelles,19,3,603
+633,Violences sexuelles,19,4,1317
+634,Violences sexuelles,19,6,353
+635,Violences sexuelles,19,11,13988
+636,Violences sexuelles,19,24,3027
+637,Violences sexuelles,19,27,3058
+638,Violences sexuelles,19,28,4084
+639,Violences sexuelles,19,32,8353
+640,Violences sexuelles,19,44,5846
+641,Violences sexuelles,19,52,4546
+642,Violences sexuelles,19,53,3466
+643,Violences sexuelles,19,75,6486
+644,Violences sexuelles,19,76,6012
+645,Violences sexuelles,19,84,8015
+646,Violences sexuelles,19,93,4927
+647,Violences sexuelles,19,94,297
+648,Violences sexuelles,20,1,472
+649,Violences sexuelles,20,2,553
+650,Violences sexuelles,20,3,547
+651,Violences sexuelles,20,4,1310
+652,Violences sexuelles,20,6,329
+653,Violences sexuelles,20,11,13482
+654,Violences sexuelles,20,24,3018
+655,Violences sexuelles,20,27,3232
+656,Violences sexuelles,20,28,4213
+657,Violences sexuelles,20,32,8008
+658,Violences sexuelles,20,44,6272
+659,Violences sexuelles,20,52,4667
+660,Violences sexuelles,20,53,3848
+661,Violences sexuelles,20,75,7189
+662,Violences sexuelles,20,76,6433
+663,Violences sexuelles,20,84,8281
+664,Violences sexuelles,20,93,4930
+665,Violences sexuelles,20,94,294
+666,Violences sexuelles,21,1,619
+667,Violences sexuelles,21,2,738
+668,Violences sexuelles,21,3,683
+669,Violences sexuelles,21,4,1597
+670,Violences sexuelles,21,6,435
+671,Violences sexuelles,21,11,16995
+672,Violences sexuelles,21,24,4042
+673,Violences sexuelles,21,27,3815
+674,Violences sexuelles,21,28,5262
+675,Violences sexuelles,21,32,10118
+676,Violences sexuelles,21,44,7655
+677,Violences sexuelles,21,52,5906
+678,Violences sexuelles,21,53,4597
+679,Violences sexuelles,21,75,8945
+680,Violences sexuelles,21,76,8230
+681,Violences sexuelles,21,84,10059
+682,Violences sexuelles,21,93,6331
+683,Violences sexuelles,21,94,353
+684,Violences sexuelles,22,1,660
+685,Violences sexuelles,22,2,697
+686,Violences sexuelles,22,3,682
+687,Violences sexuelles,22,4,1734
+688,Violences sexuelles,22,6,432
+689,Violences sexuelles,22,11,19222
+690,Violences sexuelles,22,24,4420
+691,Violences sexuelles,22,27,4191
+692,Violences sexuelles,22,28,5760
+693,Violences sexuelles,22,32,10653
+694,Violences sexuelles,22,44,8783
+695,Violences sexuelles,22,52,6294
+696,Violences sexuelles,22,53,5124
+697,Violences sexuelles,22,75,9730
+698,Violences sexuelles,22,76,9187
+699,Violences sexuelles,22,84,11190
+700,Violences sexuelles,22,93,6976
+701,Violences sexuelles,22,94,378
+702,Violences sexuelles,23,1,689
+703,Violences sexuelles,23,2,707
+704,Violences sexuelles,23,3,714
+705,Violences sexuelles,23,4,2042
+706,Violences sexuelles,23,6,465
+707,Violences sexuelles,23,11,19754
+708,Violences sexuelles,23,24,4655
+709,Violences sexuelles,23,27,4685
+710,Violences sexuelles,23,28,6307
+711,Violences sexuelles,23,32,11959
+712,Violences sexuelles,23,44,8877
+713,Violences sexuelles,23,52,6879
+714,Violences sexuelles,23,53,5429
+715,Violences sexuelles,23,75,10956
+716,Violences sexuelles,23,76,9802
+717,Violences sexuelles,23,84,12194
+718,Violences sexuelles,23,93,7584
+719,Violences sexuelles,23,94,374
+1872,Escroqueries,16,1,1061
+1873,Escroqueries,16,2,778
+1874,Escroqueries,16,3,505
+1875,Escroqueries,16,4,1402
+1876,Escroqueries,16,6,179
+1877,Escroqueries,16,11,70216
+1878,Escroqueries,16,24,9258
+1879,Escroqueries,16,27,9742
+1880,Escroqueries,16,28,9953
+1881,Escroqueries,16,32,17464
+1882,Escroqueries,16,44,16616
+1883,Escroqueries,16,52,11881
+1884,Escroqueries,16,53,11245
+1885,Escroqueries,16,75,18917
+1886,Escroqueries,16,76,21064
+1887,Escroqueries,16,84,27436
+1888,Escroqueries,16,93,20070
+1889,Escroqueries,16,94,880
+1890,Escroqueries,17,1,1092
+1891,Escroqueries,17,2,723
+1892,Escroqueries,17,3,558
+1893,Escroqueries,17,4,1539
+1894,Escroqueries,17,6,209
+1895,Escroqueries,17,11,70321
+1896,Escroqueries,17,24,8950
+1897,Escroqueries,17,27,9765
+1898,Escroqueries,17,28,10142
+1899,Escroqueries,17,32,18707
+1900,Escroqueries,17,44,16388
+1901,Escroqueries,17,52,12976
+1902,Escroqueries,17,53,10951
+1903,Escroqueries,17,75,19748
+1904,Escroqueries,17,76,21539
+1905,Escroqueries,17,84,29429
+1906,Escroqueries,17,93,20413
+1907,Escroqueries,17,94,928
+1908,Escroqueries,18,1,1181
+1909,Escroqueries,18,2,728
+1910,Escroqueries,18,3,537
+1911,Escroqueries,18,4,1330
+1912,Escroqueries,18,6,174
+1913,Escroqueries,18,11,69147
+1914,Escroqueries,18,24,9379
+1915,Escroqueries,18,27,9622
+1916,Escroqueries,18,28,10264
+1917,Escroqueries,18,32,19368
+1918,Escroqueries,18,44,16844
+1919,Escroqueries,18,52,13006
+1920,Escroqueries,18,53,11268
+1921,Escroqueries,18,75,20918
+1922,Escroqueries,18,76,22569
+1923,Escroqueries,18,84,29383
+1924,Escroqueries,18,93,20607
+1925,Escroqueries,18,94,982
+1926,Escroqueries,19,1,1384
+1927,Escroqueries,19,2,798
+1928,Escroqueries,19,3,597
+1929,Escroqueries,19,4,1772
+1930,Escroqueries,19,6,186
+1931,Escroqueries,19,11,77772
+1932,Escroqueries,19,24,10419
+1933,Escroqueries,19,27,10288
+1934,Escroqueries,19,28,11737
+1935,Escroqueries,19,32,21926
+1936,Escroqueries,19,44,19346
+1937,Escroqueries,19,52,14877
+1938,Escroqueries,19,53,12022
+1939,Escroqueries,19,75,22841
+1940,Escroqueries,19,76,25840
+1941,Escroqueries,19,84,33848
+1942,Escroqueries,19,93,24670
+1943,Escroqueries,19,94,1114
+1944,Escroqueries,20,1,1329
+1945,Escroqueries,20,2,1137
+1946,Escroqueries,20,3,702
+1947,Escroqueries,20,4,1521
+1948,Escroqueries,20,6,249
+1949,Escroqueries,20,11,73480
+1950,Escroqueries,20,24,11326
+1951,Escroqueries,20,27,11608
+1952,Escroqueries,20,28,13176
+1953,Escroqueries,20,32,22327
+1954,Escroqueries,20,44,21284
+1955,Escroqueries,20,52,15875
+1956,Escroqueries,20,53,12683
+1957,Escroqueries,20,75,25348
+1958,Escroqueries,20,76,27709
+1959,Escroqueries,20,84,38189
+1960,Escroqueries,20,93,26602
+1961,Escroqueries,20,94,1229
+1962,Escroqueries,21,1,1771
+1963,Escroqueries,21,2,1266
+1964,Escroqueries,21,3,876
+1965,Escroqueries,21,4,2023
+1966,Escroqueries,21,6,333
+1967,Escroqueries,21,11,86972
+1968,Escroqueries,21,24,13144
+1969,Escroqueries,21,27,13205
+1970,Escroqueries,21,28,14277
+1971,Escroqueries,21,32,25236
+1972,Escroqueries,21,44,24919
+1973,Escroqueries,21,52,18730
+1974,Escroqueries,21,53,14765
+1975,Escroqueries,21,75,29423
+1976,Escroqueries,21,76,32579
+1977,Escroqueries,21,84,45035
+1978,Escroqueries,21,93,31253
+1979,Escroqueries,21,94,1439
+1980,Escroqueries,22,1,1450
+1981,Escroqueries,22,2,1442
+1982,Escroqueries,22,3,665
+1983,Escroqueries,22,4,1812
+1984,Escroqueries,22,6,504
+1985,Escroqueries,22,11,92680
+1986,Escroqueries,22,24,14038
+1987,Escroqueries,22,27,13961
+1988,Escroqueries,22,28,16301
+1989,Escroqueries,22,32,28453
+1990,Escroqueries,22,44,26149
+1991,Escroqueries,22,52,19961
+1992,Escroqueries,22,53,17077
+1993,Escroqueries,22,75,33295
+1994,Escroqueries,22,76,35819
+1995,Escroqueries,22,84,46951
+1996,Escroqueries,22,93,34036
+1997,Escroqueries,22,94,1590
+1998,Escroqueries,23,1,1568
+1999,Escroqueries,23,2,1220
+2000,Escroqueries,23,3,677
+2001,Escroqueries,23,4,2274
+2002,Escroqueries,23,6,455
+2003,Escroqueries,23,11,95892
+2004,Escroqueries,23,24,15072
+2005,Escroqueries,23,27,14991
+2006,Escroqueries,23,28,17448
+2007,Escroqueries,23,32,31166
+2008,Escroqueries,23,44,27791
+2009,Escroqueries,23,52,20516
+2010,Escroqueries,23,53,19405
+2011,Escroqueries,23,75,35737
+2012,Escroqueries,23,76,37733
+2013,Escroqueries,23,84,48966
+2014,Escroqueries,23,93,35240
+2015,Escroqueries,23,94,1634

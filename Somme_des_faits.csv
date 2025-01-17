@@ -1,0 +1,2305 @@
+,annee,classe,Code.région,somme_faits
+0,16,Autres coups et blessures volontaires,1,1555
+1,16,Autres coups et blessures volontaires,2,1296
+2,16,Autres coups et blessures volontaires,3,1256
+3,16,Autres coups et blessures volontaires,4,2184
+4,16,Autres coups et blessures volontaires,6,1114
+5,16,Autres coups et blessures volontaires,11,24760
+6,16,Autres coups et blessures volontaires,24,3589
+7,16,Autres coups et blessures volontaires,27,4561
+8,16,Autres coups et blessures volontaires,28,5081
+9,16,Autres coups et blessures volontaires,32,12584
+10,16,Autres coups et blessures volontaires,44,9625
+11,16,Autres coups et blessures volontaires,52,4853
+12,16,Autres coups et blessures volontaires,53,4122
+13,16,Autres coups et blessures volontaires,75,8238
+14,16,Autres coups et blessures volontaires,76,10204
+15,16,Autres coups et blessures volontaires,84,13006
+16,16,Autres coups et blessures volontaires,93,11078
+17,16,Autres coups et blessures volontaires,94,553
+18,16,Cambriolages de logement,1,2518
+19,16,Cambriolages de logement,2,1401
+20,16,Cambriolages de logement,3,1339
+21,16,Cambriolages de logement,4,2063
+22,16,Cambriolages de logement,6,1108
+23,16,Cambriolages de logement,11,49547
+24,16,Cambriolages de logement,24,8327
+25,16,Cambriolages de logement,27,7858
+26,16,Cambriolages de logement,28,8283
+27,16,Cambriolages de logement,32,21242
+28,16,Cambriolages de logement,44,15430
+29,16,Cambriolages de logement,52,10923
+30,16,Cambriolages de logement,53,6908
+31,16,Cambriolages de logement,75,19520
+32,16,Cambriolages de logement,76,30071
+33,16,Cambriolages de logement,84,36007
+34,16,Cambriolages de logement,93,25695
+35,16,Cambriolages de logement,94,647
+36,16,Coups et blessures volontaires,1,2501
+37,16,Coups et blessures volontaires,2,2102
+38,16,Coups et blessures volontaires,3,2007
+39,16,Coups et blessures volontaires,4,4181
+40,16,Coups et blessures volontaires,6,1388
+41,16,Coups et blessures volontaires,11,45946
+42,16,Coups et blessures volontaires,24,6797
+43,16,Coups et blessures volontaires,27,8191
+44,16,Coups et blessures volontaires,28,9519
+45,16,Coups et blessures volontaires,32,23422
+46,16,Coups et blessures volontaires,44,16833
+47,16,Coups et blessures volontaires,52,9004
+48,16,Coups et blessures volontaires,53,7470
+49,16,Coups et blessures volontaires,75,14871
+50,16,Coups et blessures volontaires,76,17709
+51,16,Coups et blessures volontaires,84,22506
+52,16,Coups et blessures volontaires,93,19376
+53,16,Coups et blessures volontaires,94,915
+54,16,Coups et blessures volontaires intrafamiliaux,1,946
+55,16,Coups et blessures volontaires intrafamiliaux,2,806
+56,16,Coups et blessures volontaires intrafamiliaux,3,751
+57,16,Coups et blessures volontaires intrafamiliaux,4,1997
+58,16,Coups et blessures volontaires intrafamiliaux,6,274
+59,16,Coups et blessures volontaires intrafamiliaux,11,21186
+60,16,Coups et blessures volontaires intrafamiliaux,24,3208
+61,16,Coups et blessures volontaires intrafamiliaux,27,3630
+62,16,Coups et blessures volontaires intrafamiliaux,28,4438
+63,16,Coups et blessures volontaires intrafamiliaux,32,10838
+64,16,Coups et blessures volontaires intrafamiliaux,44,7208
+65,16,Coups et blessures volontaires intrafamiliaux,52,4151
+66,16,Coups et blessures volontaires intrafamiliaux,53,3348
+67,16,Coups et blessures volontaires intrafamiliaux,75,6633
+68,16,Coups et blessures volontaires intrafamiliaux,76,7505
+69,16,Coups et blessures volontaires intrafamiliaux,84,9500
+70,16,Coups et blessures volontaires intrafamiliaux,93,8298
+71,16,Coups et blessures volontaires intrafamiliaux,94,362
+72,16,Destructions et dégradations volontaires,1,2759
+73,16,Destructions et dégradations volontaires,2,2447
+74,16,Destructions et dégradations volontaires,3,1599
+75,16,Destructions et dégradations volontaires,4,5582
+76,16,Destructions et dégradations volontaires,6,1221
+77,16,Destructions et dégradations volontaires,11,129099
+78,16,Destructions et dégradations volontaires,24,20671
+79,16,Destructions et dégradations volontaires,27,22626
+80,16,Destructions et dégradations volontaires,28,26993
+81,16,Destructions et dégradations volontaires,32,71762
+82,16,Destructions et dégradations volontaires,44,47536
+83,16,Destructions et dégradations volontaires,52,31289
+84,16,Destructions et dégradations volontaires,53,25521
+85,16,Destructions et dégradations volontaires,75,49254
+86,16,Destructions et dégradations volontaires,76,53160
+87,16,Destructions et dégradations volontaires,84,70436
+88,16,Destructions et dégradations volontaires,93,61354
+89,16,Destructions et dégradations volontaires,94,3417
+90,16,Escroqueries,1,1061
+91,16,Escroqueries,2,778
+92,16,Escroqueries,3,505
+93,16,Escroqueries,4,1402
+94,16,Escroqueries,6,179
+95,16,Escroqueries,11,70216
+96,16,Escroqueries,24,9258
+97,16,Escroqueries,27,9742
+98,16,Escroqueries,28,9953
+99,16,Escroqueries,32,17464
+100,16,Escroqueries,44,16616
+101,16,Escroqueries,52,11881
+102,16,Escroqueries,53,11245
+103,16,Escroqueries,75,18917
+104,16,Escroqueries,76,21064
+105,16,Escroqueries,84,27436
+106,16,Escroqueries,93,20070
+107,16,Escroqueries,94,880
+108,16,Homicides,1,32
+109,16,Homicides,2,18
+110,16,Homicides,3,41
+111,16,Homicides,4,14
+112,16,Homicides,6,10
+113,16,Homicides,11,123
+114,16,Homicides,24,27
+115,16,Homicides,27,23
+116,16,Homicides,28,33
+117,16,Homicides,32,73
+118,16,Homicides,44,70
+119,16,Homicides,52,30
+120,16,Homicides,53,21
+121,16,Homicides,75,65
+122,16,Homicides,76,65
+123,16,Homicides,84,87
+124,16,Homicides,93,165
+125,16,Homicides,94,14
+126,16,Trafic de stupéfiants,1,197
+127,16,Trafic de stupéfiants,2,391
+128,16,Trafic de stupéfiants,3,580
+129,16,Trafic de stupéfiants,4,171
+130,16,Trafic de stupéfiants,6,91
+131,16,Trafic de stupéfiants,11,11492
+132,16,Trafic de stupéfiants,24,996
+133,16,Trafic de stupéfiants,27,1609
+134,16,Trafic de stupéfiants,28,1647
+135,16,Trafic de stupéfiants,32,3132
+136,16,Trafic de stupéfiants,44,3126
+137,16,Trafic de stupéfiants,52,1515
+138,16,Trafic de stupéfiants,53,1302
+139,16,Trafic de stupéfiants,75,3282
+140,16,Trafic de stupéfiants,76,3011
+141,16,Trafic de stupéfiants,84,4207
+142,16,Trafic de stupéfiants,93,3947
+143,16,Trafic de stupéfiants,94,124
+144,16,Usage de stupéfiants,1,1222
+145,16,Usage de stupéfiants,2,1467
+146,16,Usage de stupéfiants,3,429
+147,16,Usage de stupéfiants,4,1320
+148,16,Usage de stupéfiants,6,88
+149,16,Usage de stupéfiants,11,47978
+150,16,Usage de stupéfiants,24,5993
+151,16,Usage de stupéfiants,27,6359
+152,16,Usage de stupéfiants,28,7469
+153,16,Usage de stupéfiants,32,18457
+154,16,Usage de stupéfiants,44,13894
+155,16,Usage de stupéfiants,52,7776
+156,16,Usage de stupéfiants,53,5698
+157,16,Usage de stupéfiants,75,11695
+158,16,Usage de stupéfiants,76,13353
+159,16,Usage de stupéfiants,84,21071
+160,16,Usage de stupéfiants,93,17451
+161,16,Usage de stupéfiants,94,821
+162,16,Violences sexuelles,1,352
+163,16,Violences sexuelles,2,328
+164,16,Violences sexuelles,3,366
+165,16,Violences sexuelles,4,956
+166,16,Violences sexuelles,6,280
+167,16,Violences sexuelles,11,9956
+168,16,Violences sexuelles,24,2121
+169,16,Violences sexuelles,27,2109
+170,16,Violences sexuelles,28,2811
+171,16,Violences sexuelles,32,5701
+172,16,Violences sexuelles,44,4023
+173,16,Violences sexuelles,52,3006
+174,16,Violences sexuelles,53,2266
+175,16,Violences sexuelles,75,4492
+176,16,Violences sexuelles,76,4048
+177,16,Violences sexuelles,84,5332
+178,16,Violences sexuelles,93,3581
+179,16,Violences sexuelles,94,182
+180,16,Vols avec armes,1,889
+181,16,Vols avec armes,2,286
+182,16,Vols avec armes,3,756
+183,16,Vols avec armes,4,148
+184,16,Vols avec armes,6,346
+185,16,Vols avec armes,11,3163
+186,16,Vols avec armes,24,181
+187,16,Vols avec armes,27,201
+188,16,Vols avec armes,28,200
+189,16,Vols avec armes,32,820
+190,16,Vols avec armes,44,402
+191,16,Vols avec armes,52,331
+192,16,Vols avec armes,53,168
+193,16,Vols avec armes,75,368
+194,16,Vols avec armes,76,597
+195,16,Vols avec armes,84,921
+196,16,Vols avec armes,93,1090
+197,16,Vols avec armes,94,40
+198,16,Vols d'accessoires sur véhicules,1,543
+199,16,Vols d'accessoires sur véhicules,2,301
+200,16,Vols d'accessoires sur véhicules,3,172
+201,16,Vols d'accessoires sur véhicules,4,806
+202,16,Vols d'accessoires sur véhicules,6,87
+203,16,Vols d'accessoires sur véhicules,11,22761
+204,16,Vols d'accessoires sur véhicules,24,4106
+205,16,Vols d'accessoires sur véhicules,27,3626
+206,16,Vols d'accessoires sur véhicules,28,4519
+207,16,Vols d'accessoires sur véhicules,32,11700
+208,16,Vols d'accessoires sur véhicules,44,5856
+209,16,Vols d'accessoires sur véhicules,52,7572
+210,16,Vols d'accessoires sur véhicules,53,3669
+211,16,Vols d'accessoires sur véhicules,75,7456
+212,16,Vols d'accessoires sur véhicules,76,9823
+213,16,Vols d'accessoires sur véhicules,84,13166
+214,16,Vols d'accessoires sur véhicules,93,10897
+215,16,Vols d'accessoires sur véhicules,94,426
+216,16,Vols dans les véhicules,1,2184
+217,16,Vols dans les véhicules,2,1787
+218,16,Vols dans les véhicules,3,1950
+219,16,Vols dans les véhicules,4,3923
+220,16,Vols dans les véhicules,6,641
+221,16,Vols dans les véhicules,11,65007
+222,16,Vols dans les véhicules,24,6049
+223,16,Vols dans les véhicules,27,5916
+224,16,Vols dans les véhicules,28,9054
+225,16,Vols dans les véhicules,32,28054
+226,16,Vols dans les véhicules,44,12393
+227,16,Vols dans les véhicules,52,15907
+228,16,Vols dans les véhicules,53,7937
+229,16,Vols dans les véhicules,75,18537
+230,16,Vols dans les véhicules,76,29832
+231,16,Vols dans les véhicules,84,34507
+232,16,Vols dans les véhicules,93,28759
+233,16,Vols dans les véhicules,94,547
+234,16,Vols de véhicules,1,941
+235,16,Vols de véhicules,2,603
+236,16,Vols de véhicules,3,894
+237,16,Vols de véhicules,4,1809
+238,16,Vols de véhicules,6,511
+239,16,Vols de véhicules,11,45944
+240,16,Vols de véhicules,24,5136
+241,16,Vols de véhicules,27,4485
+242,16,Vols de véhicules,28,5338
+243,16,Vols de véhicules,32,17111
+244,16,Vols de véhicules,44,7597
+245,16,Vols de véhicules,52,7413
+246,16,Vols de véhicules,53,3639
+247,16,Vols de véhicules,75,9735
+248,16,Vols de véhicules,76,12474
+249,16,Vols de véhicules,84,19557
+250,16,Vols de véhicules,93,20847
+251,16,Vols de véhicules,94,763
+252,16,Vols sans violence contre des personnes,1,3375
+253,16,Vols sans violence contre des personnes,2,2500
+254,16,Vols sans violence contre des personnes,3,2548
+255,16,Vols sans violence contre des personnes,4,4526
+256,16,Vols sans violence contre des personnes,6,1341
+257,16,Vols sans violence contre des personnes,11,235723
+258,16,Vols sans violence contre des personnes,24,16907
+259,16,Vols sans violence contre des personnes,27,17155
+260,16,Vols sans violence contre des personnes,28,20319
+261,16,Vols sans violence contre des personnes,32,46502
+262,16,Vols sans violence contre des personnes,44,37971
+263,16,Vols sans violence contre des personnes,52,31491
+264,16,Vols sans violence contre des personnes,53,23701
+265,16,Vols sans violence contre des personnes,75,50583
+266,16,Vols sans violence contre des personnes,76,64972
+267,16,Vols sans violence contre des personnes,84,76883
+268,16,Vols sans violence contre des personnes,93,70672
+269,16,Vols sans violence contre des personnes,94,2267
+270,16,Vols violents sans arme,1,891
+271,16,Vols violents sans arme,2,616
+272,16,Vols violents sans arme,3,1580
+273,16,Vols violents sans arme,4,1271
+274,16,Vols violents sans arme,6,734
+275,16,Vols violents sans arme,11,44174
+276,16,Vols violents sans arme,24,1559
+277,16,Vols violents sans arme,27,1089
+278,16,Vols violents sans arme,28,2140
+279,16,Vols violents sans arme,32,7251
+280,16,Vols violents sans arme,44,2857
+281,16,Vols violents sans arme,52,2104
+282,16,Vols violents sans arme,53,1700
+283,16,Vols violents sans arme,75,3410
+284,16,Vols violents sans arme,76,7033
+285,16,Vols violents sans arme,84,7232
+286,16,Vols violents sans arme,93,9014
+287,16,Vols violents sans arme,94,103
+288,17,Autres coups et blessures volontaires,1,1476
+289,17,Autres coups et blessures volontaires,2,1345
+290,17,Autres coups et blessures volontaires,3,1307
+291,17,Autres coups et blessures volontaires,4,2331
+292,17,Autres coups et blessures volontaires,6,1129
+293,17,Autres coups et blessures volontaires,11,25639
+294,17,Autres coups et blessures volontaires,24,3917
+295,17,Autres coups et blessures volontaires,27,4770
+296,17,Autres coups et blessures volontaires,28,5220
+297,17,Autres coups et blessures volontaires,32,12693
+298,17,Autres coups et blessures volontaires,44,10018
+299,17,Autres coups et blessures volontaires,52,5405
+300,17,Autres coups et blessures volontaires,53,4665
+301,17,Autres coups et blessures volontaires,75,8779
+302,17,Autres coups et blessures volontaires,76,10828
+303,17,Autres coups et blessures volontaires,84,13390
+304,17,Autres coups et blessures volontaires,93,10898
+305,17,Autres coups et blessures volontaires,94,563
+306,17,Cambriolages de logement,1,2380
+307,17,Cambriolages de logement,2,1282
+308,17,Cambriolages de logement,3,1435
+309,17,Cambriolages de logement,4,1896
+310,17,Cambriolages de logement,6,930
+311,17,Cambriolages de logement,11,48914
+312,17,Cambriolages de logement,24,8583
+313,17,Cambriolages de logement,27,7327
+314,17,Cambriolages de logement,28,8029
+315,17,Cambriolages de logement,32,21613
+316,17,Cambriolages de logement,44,14986
+317,17,Cambriolages de logement,52,10942
+318,17,Cambriolages de logement,53,7769
+319,17,Cambriolages de logement,75,21874
+320,17,Cambriolages de logement,76,29125
+321,17,Cambriolages de logement,84,36691
+322,17,Cambriolages de logement,93,28506
+323,17,Cambriolages de logement,94,674
+324,17,Coups et blessures volontaires,1,2365
+325,17,Coups et blessures volontaires,2,2180
+326,17,Coups et blessures volontaires,3,2054
+327,17,Coups et blessures volontaires,4,4363
+328,17,Coups et blessures volontaires,6,1421
+329,17,Coups et blessures volontaires,11,47168
+330,17,Coups et blessures volontaires,24,7241
+331,17,Coups et blessures volontaires,27,8572
+332,17,Coups et blessures volontaires,28,9632
+333,17,Coups et blessures volontaires,32,23518
+334,17,Coups et blessures volontaires,44,17530
+335,17,Coups et blessures volontaires,52,9741
+336,17,Coups et blessures volontaires,53,8178
+337,17,Coups et blessures volontaires,75,15526
+338,17,Coups et blessures volontaires,76,18523
+339,17,Coups et blessures volontaires,84,22680
+340,17,Coups et blessures volontaires,93,19136
+341,17,Coups et blessures volontaires,94,922
+342,17,Coups et blessures volontaires intrafamiliaux,1,889
+343,17,Coups et blessures volontaires intrafamiliaux,2,835
+344,17,Coups et blessures volontaires intrafamiliaux,3,747
+345,17,Coups et blessures volontaires intrafamiliaux,4,2032
+346,17,Coups et blessures volontaires intrafamiliaux,6,292
+347,17,Coups et blessures volontaires intrafamiliaux,11,21529
+348,17,Coups et blessures volontaires intrafamiliaux,24,3324
+349,17,Coups et blessures volontaires intrafamiliaux,27,3802
+350,17,Coups et blessures volontaires intrafamiliaux,28,4412
+351,17,Coups et blessures volontaires intrafamiliaux,32,10825
+352,17,Coups et blessures volontaires intrafamiliaux,44,7512
+353,17,Coups et blessures volontaires intrafamiliaux,52,4336
+354,17,Coups et blessures volontaires intrafamiliaux,53,3513
+355,17,Coups et blessures volontaires intrafamiliaux,75,6747
+356,17,Coups et blessures volontaires intrafamiliaux,76,7695
+357,17,Coups et blessures volontaires intrafamiliaux,84,9290
+358,17,Coups et blessures volontaires intrafamiliaux,93,8238
+359,17,Coups et blessures volontaires intrafamiliaux,94,359
+360,17,Destructions et dégradations volontaires,1,2821
+361,17,Destructions et dégradations volontaires,2,2287
+362,17,Destructions et dégradations volontaires,3,1558
+363,17,Destructions et dégradations volontaires,4,5342
+364,17,Destructions et dégradations volontaires,6,937
+365,17,Destructions et dégradations volontaires,11,125799
+366,17,Destructions et dégradations volontaires,24,20335
+367,17,Destructions et dégradations volontaires,27,23026
+368,17,Destructions et dégradations volontaires,28,28016
+369,17,Destructions et dégradations volontaires,32,68188
+370,17,Destructions et dégradations volontaires,44,47760
+371,17,Destructions et dégradations volontaires,52,31000
+372,17,Destructions et dégradations volontaires,53,26174
+373,17,Destructions et dégradations volontaires,75,51242
+374,17,Destructions et dégradations volontaires,76,53944
+375,17,Destructions et dégradations volontaires,84,72519
+376,17,Destructions et dégradations volontaires,93,60636
+377,17,Destructions et dégradations volontaires,94,3303
+378,17,Escroqueries,1,1092
+379,17,Escroqueries,2,723
+380,17,Escroqueries,3,558
+381,17,Escroqueries,4,1539
+382,17,Escroqueries,6,209
+383,17,Escroqueries,11,70321
+384,17,Escroqueries,24,8950
+385,17,Escroqueries,27,9765
+386,17,Escroqueries,28,10142
+387,17,Escroqueries,32,18707
+388,17,Escroqueries,44,16388
+389,17,Escroqueries,52,12976
+390,17,Escroqueries,53,10951
+391,17,Escroqueries,75,19748
+392,17,Escroqueries,76,21539
+393,17,Escroqueries,84,29429
+394,17,Escroqueries,93,20413
+395,17,Escroqueries,94,928
+396,17,Homicides,1,37
+397,17,Homicides,2,11
+398,17,Homicides,3,22
+399,17,Homicides,4,17
+400,17,Homicides,6,2
+401,17,Homicides,11,129
+402,17,Homicides,24,25
+403,17,Homicides,27,30
+404,17,Homicides,28,27
+405,17,Homicides,32,73
+406,17,Homicides,44,49
+407,17,Homicides,52,35
+408,17,Homicides,53,29
+409,17,Homicides,75,63
+410,17,Homicides,76,63
+411,17,Homicides,84,88
+412,17,Homicides,93,109
+413,17,Homicides,94,17
+414,17,Trafic de stupéfiants,1,193
+415,17,Trafic de stupéfiants,2,324
+416,17,Trafic de stupéfiants,3,620
+417,17,Trafic de stupéfiants,4,175
+418,17,Trafic de stupéfiants,6,81
+419,17,Trafic de stupéfiants,11,13473
+420,17,Trafic de stupéfiants,24,966
+421,17,Trafic de stupéfiants,27,1508
+422,17,Trafic de stupéfiants,28,1563
+423,17,Trafic de stupéfiants,32,3203
+424,17,Trafic de stupéfiants,44,3049
+425,17,Trafic de stupéfiants,52,1321
+426,17,Trafic de stupéfiants,53,1525
+427,17,Trafic de stupéfiants,75,3690
+428,17,Trafic de stupéfiants,76,3392
+429,17,Trafic de stupéfiants,84,4439
+430,17,Trafic de stupéfiants,93,4249
+431,17,Trafic de stupéfiants,94,209
+432,17,Usage de stupéfiants,1,1063
+433,17,Usage de stupéfiants,2,1623
+434,17,Usage de stupéfiants,3,446
+435,17,Usage de stupéfiants,4,1690
+436,17,Usage de stupéfiants,6,126
+437,17,Usage de stupéfiants,11,52053
+438,17,Usage de stupéfiants,24,6424
+439,17,Usage de stupéfiants,27,6559
+440,17,Usage de stupéfiants,28,7446
+441,17,Usage de stupéfiants,32,18734
+442,17,Usage de stupéfiants,44,13979
+443,17,Usage de stupéfiants,52,7553
+444,17,Usage de stupéfiants,53,6454
+445,17,Usage de stupéfiants,75,12635
+446,17,Usage de stupéfiants,76,13060
+447,17,Usage de stupéfiants,84,21019
+448,17,Usage de stupéfiants,93,17252
+449,17,Usage de stupéfiants,94,786
+450,17,Violences sexuelles,1,397
+451,17,Violences sexuelles,2,380
+452,17,Violences sexuelles,3,405
+453,17,Violences sexuelles,4,1098
+454,17,Violences sexuelles,6,219
+455,17,Violences sexuelles,11,10608
+456,17,Violences sexuelles,24,2216
+457,17,Violences sexuelles,27,2461
+458,17,Violences sexuelles,28,3125
+459,17,Violences sexuelles,32,6113
+460,17,Violences sexuelles,44,4539
+461,17,Violences sexuelles,52,3389
+462,17,Violences sexuelles,53,2457
+463,17,Violences sexuelles,75,4955
+464,17,Violences sexuelles,76,4662
+465,17,Violences sexuelles,84,5816
+466,17,Violences sexuelles,93,3948
+467,17,Violences sexuelles,94,210
+468,17,Vols avec armes,1,589
+469,17,Vols avec armes,2,307
+470,17,Vols avec armes,3,615
+471,17,Vols avec armes,4,90
+472,17,Vols avec armes,6,232
+473,17,Vols avec armes,11,2995
+474,17,Vols avec armes,24,162
+475,17,Vols avec armes,27,196
+476,17,Vols avec armes,28,213
+477,17,Vols avec armes,32,686
+478,17,Vols avec armes,44,357
+479,17,Vols avec armes,52,321
+480,17,Vols avec armes,53,164
+481,17,Vols avec armes,75,366
+482,17,Vols avec armes,76,678
+483,17,Vols avec armes,84,928
+484,17,Vols avec armes,93,1110
+485,17,Vols avec armes,94,34
+486,17,Vols d'accessoires sur véhicules,1,583
+487,17,Vols d'accessoires sur véhicules,2,307
+488,17,Vols d'accessoires sur véhicules,3,217
+489,17,Vols d'accessoires sur véhicules,4,923
+490,17,Vols d'accessoires sur véhicules,6,91
+491,17,Vols d'accessoires sur véhicules,11,21635
+492,17,Vols d'accessoires sur véhicules,24,4143
+493,17,Vols d'accessoires sur véhicules,27,3355
+494,17,Vols d'accessoires sur véhicules,28,4259
+495,17,Vols d'accessoires sur véhicules,32,11177
+496,17,Vols d'accessoires sur véhicules,44,5526
+497,17,Vols d'accessoires sur véhicules,52,6812
+498,17,Vols d'accessoires sur véhicules,53,4188
+499,17,Vols d'accessoires sur véhicules,75,7460
+500,17,Vols d'accessoires sur véhicules,76,9198
+501,17,Vols d'accessoires sur véhicules,84,11758
+502,17,Vols d'accessoires sur véhicules,93,10219
+503,17,Vols d'accessoires sur véhicules,94,366
+504,17,Vols dans les véhicules,1,2647
+505,17,Vols dans les véhicules,2,1547
+506,17,Vols dans les véhicules,3,1868
+507,17,Vols dans les véhicules,4,2950
+508,17,Vols dans les véhicules,6,475
+509,17,Vols dans les véhicules,11,63508
+510,17,Vols dans les véhicules,24,6336
+511,17,Vols dans les véhicules,27,5669
+512,17,Vols dans les véhicules,28,10099
+513,17,Vols dans les véhicules,32,26253
+514,17,Vols dans les véhicules,44,13075
+515,17,Vols dans les véhicules,52,17381
+516,17,Vols dans les véhicules,53,7405
+517,17,Vols dans les véhicules,75,19657
+518,17,Vols dans les véhicules,76,30132
+519,17,Vols dans les véhicules,84,37379
+520,17,Vols dans les véhicules,93,24994
+521,17,Vols dans les véhicules,94,466
+522,17,Vols de véhicules,1,857
+523,17,Vols de véhicules,2,657
+524,17,Vols de véhicules,3,766
+525,17,Vols de véhicules,4,1426
+526,17,Vols de véhicules,6,464
+527,17,Vols de véhicules,11,43199
+528,17,Vols de véhicules,24,4551
+529,17,Vols de véhicules,27,4242
+530,17,Vols de véhicules,28,5208
+531,17,Vols de véhicules,32,15920
+532,17,Vols de véhicules,44,6952
+533,17,Vols de véhicules,52,7296
+534,17,Vols de véhicules,53,3845
+535,17,Vols de véhicules,75,9499
+536,17,Vols de véhicules,76,12339
+537,17,Vols de véhicules,84,18312
+538,17,Vols de véhicules,93,18517
+539,17,Vols de véhicules,94,763
+540,17,Vols sans violence contre des personnes,1,3130
+541,17,Vols sans violence contre des personnes,2,2584
+542,17,Vols sans violence contre des personnes,3,2351
+543,17,Vols sans violence contre des personnes,4,4352
+544,17,Vols sans violence contre des personnes,6,1416
+545,17,Vols sans violence contre des personnes,11,238764
+546,17,Vols sans violence contre des personnes,24,16989
+547,17,Vols sans violence contre des personnes,27,17716
+548,17,Vols sans violence contre des personnes,28,20320
+549,17,Vols sans violence contre des personnes,32,45493
+550,17,Vols sans violence contre des personnes,44,38362
+551,17,Vols sans violence contre des personnes,52,32190
+552,17,Vols sans violence contre des personnes,53,23864
+553,17,Vols sans violence contre des personnes,75,51943
+554,17,Vols sans violence contre des personnes,76,65182
+555,17,Vols sans violence contre des personnes,84,79499
+556,17,Vols sans violence contre des personnes,93,67520
+557,17,Vols sans violence contre des personnes,94,2128
+558,17,Vols violents sans arme,1,716
+559,17,Vols violents sans arme,2,493
+560,17,Vols violents sans arme,3,1272
+561,17,Vols violents sans arme,4,1044
+562,17,Vols violents sans arme,6,601
+563,17,Vols violents sans arme,11,42596
+564,17,Vols violents sans arme,24,1446
+565,17,Vols violents sans arme,27,1078
+566,17,Vols violents sans arme,28,2059
+567,17,Vols violents sans arme,32,6440
+568,17,Vols violents sans arme,44,2912
+569,17,Vols violents sans arme,52,2346
+570,17,Vols violents sans arme,53,1591
+571,17,Vols violents sans arme,75,3415
+572,17,Vols violents sans arme,76,6626
+573,17,Vols violents sans arme,84,6950
+574,17,Vols violents sans arme,93,7850
+575,17,Vols violents sans arme,94,107
+576,18,Autres coups et blessures volontaires,1,1486
+577,18,Autres coups et blessures volontaires,2,1261
+578,18,Autres coups et blessures volontaires,3,1314
+579,18,Autres coups et blessures volontaires,4,2415
+580,18,Autres coups et blessures volontaires,6,1069
+581,18,Autres coups et blessures volontaires,11,26508
+582,18,Autres coups et blessures volontaires,24,4212
+583,18,Autres coups et blessures volontaires,27,4973
+584,18,Autres coups et blessures volontaires,28,5789
+585,18,Autres coups et blessures volontaires,32,13374
+586,18,Autres coups et blessures volontaires,44,10174
+587,18,Autres coups et blessures volontaires,52,5595
+588,18,Autres coups et blessures volontaires,53,4748
+589,18,Autres coups et blessures volontaires,75,9295
+590,18,Autres coups et blessures volontaires,76,11415
+591,18,Autres coups et blessures volontaires,84,14432
+592,18,Autres coups et blessures volontaires,93,12075
+593,18,Autres coups et blessures volontaires,94,581
+594,18,Cambriolages de logement,1,1360
+595,18,Cambriolages de logement,2,857
+596,18,Cambriolages de logement,3,1280
+597,18,Cambriolages de logement,4,1659
+598,18,Cambriolages de logement,6,628
+599,18,Cambriolages de logement,11,49745
+600,18,Cambriolages de logement,24,7886
+601,18,Cambriolages de logement,27,7555
+602,18,Cambriolages de logement,28,8103
+603,18,Cambriolages de logement,32,20455
+604,18,Cambriolages de logement,44,14194
+605,18,Cambriolages de logement,52,11172
+606,18,Cambriolages de logement,53,7554
+607,18,Cambriolages de logement,75,19662
+608,18,Cambriolages de logement,76,25103
+609,18,Cambriolages de logement,84,32681
+610,18,Cambriolages de logement,93,26436
+611,18,Cambriolages de logement,94,487
+612,18,Coups et blessures volontaires,1,2500
+613,18,Coups et blessures volontaires,2,2229
+614,18,Coups et blessures volontaires,3,2083
+615,18,Coups et blessures volontaires,4,4606
+616,18,Coups et blessures volontaires,6,1346
+617,18,Coups et blessures volontaires,11,48970
+618,18,Coups et blessures volontaires,24,7729
+619,18,Coups et blessures volontaires,27,9071
+620,18,Coups et blessures volontaires,28,10448
+621,18,Coups et blessures volontaires,32,25383
+622,18,Coups et blessures volontaires,44,18361
+623,18,Coups et blessures volontaires,52,10283
+624,18,Coups et blessures volontaires,53,8561
+625,18,Coups et blessures volontaires,75,16752
+626,18,Coups et blessures volontaires,76,19794
+627,18,Coups et blessures volontaires,84,25074
+628,18,Coups et blessures volontaires,93,21211
+629,18,Coups et blessures volontaires,94,965
+630,18,Coups et blessures volontaires intrafamiliaux,1,1014
+631,18,Coups et blessures volontaires intrafamiliaux,2,968
+632,18,Coups et blessures volontaires intrafamiliaux,3,769
+633,18,Coups et blessures volontaires intrafamiliaux,4,2191
+634,18,Coups et blessures volontaires intrafamiliaux,6,277
+635,18,Coups et blessures volontaires intrafamiliaux,11,22462
+636,18,Coups et blessures volontaires intrafamiliaux,24,3517
+637,18,Coups et blessures volontaires intrafamiliaux,27,4098
+638,18,Coups et blessures volontaires intrafamiliaux,28,4659
+639,18,Coups et blessures volontaires intrafamiliaux,32,12009
+640,18,Coups et blessures volontaires intrafamiliaux,44,8187
+641,18,Coups et blessures volontaires intrafamiliaux,52,4688
+642,18,Coups et blessures volontaires intrafamiliaux,53,3813
+643,18,Coups et blessures volontaires intrafamiliaux,75,7457
+644,18,Coups et blessures volontaires intrafamiliaux,76,8379
+645,18,Coups et blessures volontaires intrafamiliaux,84,10642
+646,18,Coups et blessures volontaires intrafamiliaux,93,9136
+647,18,Coups et blessures volontaires intrafamiliaux,94,384
+648,18,Destructions et dégradations volontaires,1,2546
+649,18,Destructions et dégradations volontaires,2,2186
+650,18,Destructions et dégradations volontaires,3,1301
+651,18,Destructions et dégradations volontaires,4,5358
+652,18,Destructions et dégradations volontaires,6,833
+653,18,Destructions et dégradations volontaires,11,119389
+654,18,Destructions et dégradations volontaires,24,20336
+655,18,Destructions et dégradations volontaires,27,23026
+656,18,Destructions et dégradations volontaires,28,26904
+657,18,Destructions et dégradations volontaires,32,64196
+658,18,Destructions et dégradations volontaires,44,47274
+659,18,Destructions et dégradations volontaires,52,30885
+660,18,Destructions et dégradations volontaires,53,24927
+661,18,Destructions et dégradations volontaires,75,50212
+662,18,Destructions et dégradations volontaires,76,52343
+663,18,Destructions et dégradations volontaires,84,72594
+664,18,Destructions et dégradations volontaires,93,55857
+665,18,Destructions et dégradations volontaires,94,3276
+666,18,Escroqueries,1,1181
+667,18,Escroqueries,2,728
+668,18,Escroqueries,3,537
+669,18,Escroqueries,4,1330
+670,18,Escroqueries,6,174
+671,18,Escroqueries,11,69147
+672,18,Escroqueries,24,9379
+673,18,Escroqueries,27,9622
+674,18,Escroqueries,28,10264
+675,18,Escroqueries,32,19368
+676,18,Escroqueries,44,16844
+677,18,Escroqueries,52,13006
+678,18,Escroqueries,53,11268
+679,18,Escroqueries,75,20918
+680,18,Escroqueries,76,22569
+681,18,Escroqueries,84,29383
+682,18,Escroqueries,93,20607
+683,18,Escroqueries,94,982
+684,18,Homicides,1,18
+685,18,Homicides,2,15
+686,18,Homicides,3,23
+687,18,Homicides,4,16
+688,18,Homicides,6,7
+689,18,Homicides,11,126
+690,18,Homicides,24,21
+691,18,Homicides,27,30
+692,18,Homicides,28,24
+693,18,Homicides,32,89
+694,18,Homicides,44,50
+695,18,Homicides,52,39
+696,18,Homicides,53,24
+697,18,Homicides,75,60
+698,18,Homicides,76,74
+699,18,Homicides,84,78
+700,18,Homicides,93,127
+701,18,Homicides,94,10
+702,18,Trafic de stupéfiants,1,318
+703,18,Trafic de stupéfiants,2,302
+704,18,Trafic de stupéfiants,3,775
+705,18,Trafic de stupéfiants,4,234
+706,18,Trafic de stupéfiants,6,66
+707,18,Trafic de stupéfiants,11,14758
+708,18,Trafic de stupéfiants,24,1191
+709,18,Trafic de stupéfiants,27,1808
+710,18,Trafic de stupéfiants,28,1722
+711,18,Trafic de stupéfiants,32,3286
+712,18,Trafic de stupéfiants,44,2924
+713,18,Trafic de stupéfiants,52,1485
+714,18,Trafic de stupéfiants,53,1533
+715,18,Trafic de stupéfiants,75,3042
+716,18,Trafic de stupéfiants,76,3566
+717,18,Trafic de stupéfiants,84,4273
+718,18,Trafic de stupéfiants,93,4074
+719,18,Trafic de stupéfiants,94,160
+720,18,Usage de stupéfiants,1,1396
+721,18,Usage de stupéfiants,2,1487
+722,18,Usage de stupéfiants,3,403
+723,18,Usage de stupéfiants,4,1468
+724,18,Usage de stupéfiants,6,140
+725,18,Usage de stupéfiants,11,51362
+726,18,Usage de stupéfiants,24,6220
+727,18,Usage de stupéfiants,27,7113
+728,18,Usage de stupéfiants,28,7311
+729,18,Usage de stupéfiants,32,18645
+730,18,Usage de stupéfiants,44,12961
+731,18,Usage de stupéfiants,52,7367
+732,18,Usage de stupéfiants,53,6587
+733,18,Usage de stupéfiants,75,12290
+734,18,Usage de stupéfiants,76,12539
+735,18,Usage de stupéfiants,84,22396
+736,18,Usage de stupéfiants,93,16547
+737,18,Usage de stupéfiants,94,703
+738,18,Violences sexuelles,1,413
+739,18,Violences sexuelles,2,432
+740,18,Violences sexuelles,3,447
+741,18,Violences sexuelles,4,1133
+742,18,Violences sexuelles,6,302
+743,18,Violences sexuelles,11,13137
+744,18,Violences sexuelles,24,2620
+745,18,Violences sexuelles,27,2814
+746,18,Violences sexuelles,28,3628
+747,18,Violences sexuelles,32,7280
+748,18,Violences sexuelles,44,5257
+749,18,Violences sexuelles,52,4031
+750,18,Violences sexuelles,53,3029
+751,18,Violences sexuelles,75,5646
+752,18,Violences sexuelles,76,5492
+753,18,Violences sexuelles,84,7006
+754,18,Violences sexuelles,93,4572
+755,18,Violences sexuelles,94,233
+756,18,Vols avec armes,1,429
+757,18,Vols avec armes,2,257
+758,18,Vols avec armes,3,516
+759,18,Vols avec armes,4,86
+760,18,Vols avec armes,6,308
+761,18,Vols avec armes,11,2517
+762,18,Vols avec armes,24,154
+763,18,Vols avec armes,27,185
+764,18,Vols avec armes,28,210
+765,18,Vols avec armes,32,677
+766,18,Vols avec armes,44,326
+767,18,Vols avec armes,52,317
+768,18,Vols avec armes,53,156
+769,18,Vols avec armes,75,366
+770,18,Vols avec armes,76,585
+771,18,Vols avec armes,84,844
+772,18,Vols avec armes,93,1049
+773,18,Vols avec armes,94,18
+774,18,Vols d'accessoires sur véhicules,1,573
+775,18,Vols d'accessoires sur véhicules,2,292
+776,18,Vols d'accessoires sur véhicules,3,149
+777,18,Vols d'accessoires sur véhicules,4,578
+778,18,Vols d'accessoires sur véhicules,6,99
+779,18,Vols d'accessoires sur véhicules,11,20214
+780,18,Vols d'accessoires sur véhicules,24,3739
+781,18,Vols d'accessoires sur véhicules,27,3127
+782,18,Vols d'accessoires sur véhicules,28,4199
+783,18,Vols d'accessoires sur véhicules,32,10565
+784,18,Vols d'accessoires sur véhicules,44,5735
+785,18,Vols d'accessoires sur véhicules,52,6309
+786,18,Vols d'accessoires sur véhicules,53,3795
+787,18,Vols d'accessoires sur véhicules,75,7580
+788,18,Vols d'accessoires sur véhicules,76,8199
+789,18,Vols d'accessoires sur véhicules,84,10854
+790,18,Vols d'accessoires sur véhicules,93,9641
+791,18,Vols d'accessoires sur véhicules,94,376
+792,18,Vols dans les véhicules,1,2688
+793,18,Vols dans les véhicules,2,1583
+794,18,Vols dans les véhicules,3,1458
+795,18,Vols dans les véhicules,4,2679
+796,18,Vols dans les véhicules,6,390
+797,18,Vols dans les véhicules,11,58656
+798,18,Vols dans les véhicules,24,6278
+799,18,Vols dans les véhicules,27,5679
+800,18,Vols dans les véhicules,28,9424
+801,18,Vols dans les véhicules,32,25374
+802,18,Vols dans les véhicules,44,12542
+803,18,Vols dans les véhicules,52,19233
+804,18,Vols dans les véhicules,53,8100
+805,18,Vols dans les véhicules,75,20572
+806,18,Vols dans les véhicules,76,30792
+807,18,Vols dans les véhicules,84,37244
+808,18,Vols dans les véhicules,93,25966
+809,18,Vols dans les véhicules,94,430
+810,18,Vols de véhicules,1,769
+811,18,Vols de véhicules,2,481
+812,18,Vols de véhicules,3,622
+813,18,Vols de véhicules,4,1135
+814,18,Vols de véhicules,6,511
+815,18,Vols de véhicules,11,40166
+816,18,Vols de véhicules,24,3934
+817,18,Vols de véhicules,27,3923
+818,18,Vols de véhicules,28,4898
+819,18,Vols de véhicules,32,15101
+820,18,Vols de véhicules,44,6373
+821,18,Vols de véhicules,52,6426
+822,18,Vols de véhicules,53,3406
+823,18,Vols de véhicules,75,9145
+824,18,Vols de véhicules,76,11317
+825,18,Vols de véhicules,84,16667
+826,18,Vols de véhicules,93,17070
+827,18,Vols de véhicules,94,665
+828,18,Vols sans violence contre des personnes,1,3081
+829,18,Vols sans violence contre des personnes,2,2223
+830,18,Vols sans violence contre des personnes,3,2178
+831,18,Vols sans violence contre des personnes,4,4000
+832,18,Vols sans violence contre des personnes,6,1194
+833,18,Vols sans violence contre des personnes,11,242712
+834,18,Vols sans violence contre des personnes,24,16224
+835,18,Vols sans violence contre des personnes,27,16272
+836,18,Vols sans violence contre des personnes,28,19945
+837,18,Vols sans violence contre des personnes,32,45134
+838,18,Vols sans violence contre des personnes,44,37096
+839,18,Vols sans violence contre des personnes,52,30999
+840,18,Vols sans violence contre des personnes,53,23684
+841,18,Vols sans violence contre des personnes,75,49753
+842,18,Vols sans violence contre des personnes,76,61653
+843,18,Vols sans violence contre des personnes,84,80402
+844,18,Vols sans violence contre des personnes,93,64319
+845,18,Vols sans violence contre des personnes,94,2038
+846,18,Vols violents sans arme,1,571
+847,18,Vols violents sans arme,2,472
+848,18,Vols violents sans arme,3,805
+849,18,Vols violents sans arme,4,908
+850,18,Vols violents sans arme,6,412
+851,18,Vols violents sans arme,11,39260
+852,18,Vols violents sans arme,24,1413
+853,18,Vols violents sans arme,27,921
+854,18,Vols violents sans arme,28,2071
+855,18,Vols violents sans arme,32,6014
+856,18,Vols violents sans arme,44,2659
+857,18,Vols violents sans arme,52,2427
+858,18,Vols violents sans arme,53,1584
+859,18,Vols violents sans arme,75,3328
+860,18,Vols violents sans arme,76,5779
+861,18,Vols violents sans arme,84,6597
+862,18,Vols violents sans arme,93,7655
+863,18,Vols violents sans arme,94,96
+864,19,Autres coups et blessures volontaires,1,1550
+865,19,Autres coups et blessures volontaires,2,1248
+866,19,Autres coups et blessures volontaires,3,1339
+867,19,Autres coups et blessures volontaires,4,2132
+868,19,Autres coups et blessures volontaires,6,1200
+869,19,Autres coups et blessures volontaires,11,26312
+870,19,Autres coups et blessures volontaires,24,4079
+871,19,Autres coups et blessures volontaires,27,4670
+872,19,Autres coups et blessures volontaires,28,5762
+873,19,Autres coups et blessures volontaires,32,13131
+874,19,Autres coups et blessures volontaires,44,10185
+875,19,Autres coups et blessures volontaires,52,5790
+876,19,Autres coups et blessures volontaires,53,5056
+877,19,Autres coups et blessures volontaires,75,9756
+878,19,Autres coups et blessures volontaires,76,11795
+879,19,Autres coups et blessures volontaires,84,14737
+880,19,Autres coups et blessures volontaires,93,12120
+881,19,Autres coups et blessures volontaires,94,594
+882,19,Cambriolages de logement,1,1058
+883,19,Cambriolages de logement,2,1384
+884,19,Cambriolages de logement,3,1052
+885,19,Cambriolages de logement,4,1449
+886,19,Cambriolages de logement,6,556
+887,19,Cambriolages de logement,11,49612
+888,19,Cambriolages de logement,24,7379
+889,19,Cambriolages de logement,27,8031
+890,19,Cambriolages de logement,28,7542
+891,19,Cambriolages de logement,32,21276
+892,19,Cambriolages de logement,44,14358
+893,19,Cambriolages de logement,52,11563
+894,19,Cambriolages de logement,53,6840
+895,19,Cambriolages de logement,75,20015
+896,19,Cambriolages de logement,76,25310
+897,19,Cambriolages de logement,84,33120
+898,19,Cambriolages de logement,93,25739
+899,19,Cambriolages de logement,94,377
+900,19,Coups et blessures volontaires,1,2682
+901,19,Coups et blessures volontaires,2,2278
+902,19,Coups et blessures volontaires,3,2244
+903,19,Coups et blessures volontaires,4,4596
+904,19,Coups et blessures volontaires,6,1573
+905,19,Coups et blessures volontaires,11,51440
+906,19,Coups et blessures volontaires,24,8312
+907,19,Coups et blessures volontaires,27,9308
+908,19,Coups et blessures volontaires,28,10992
+909,19,Coups et blessures volontaires,32,27110
+910,19,Coups et blessures volontaires,44,19800
+911,19,Coups et blessures volontaires,52,11207
+912,19,Coups et blessures volontaires,53,9465
+913,19,Coups et blessures volontaires,75,18379
+914,19,Coups et blessures volontaires,76,21245
+915,19,Coups et blessures volontaires,84,27264
+916,19,Coups et blessures volontaires,93,22766
+917,19,Coups et blessures volontaires,94,1121
+918,19,Coups et blessures volontaires intrafamiliaux,1,1132
+919,19,Coups et blessures volontaires intrafamiliaux,2,1030
+920,19,Coups et blessures volontaires intrafamiliaux,3,905
+921,19,Coups et blessures volontaires intrafamiliaux,4,2464
+922,19,Coups et blessures volontaires intrafamiliaux,6,373
+923,19,Coups et blessures volontaires intrafamiliaux,11,25128
+924,19,Coups et blessures volontaires intrafamiliaux,24,4233
+925,19,Coups et blessures volontaires intrafamiliaux,27,4638
+926,19,Coups et blessures volontaires intrafamiliaux,28,5230
+927,19,Coups et blessures volontaires intrafamiliaux,32,13979
+928,19,Coups et blessures volontaires intrafamiliaux,44,9615
+929,19,Coups et blessures volontaires intrafamiliaux,52,5417
+930,19,Coups et blessures volontaires intrafamiliaux,53,4409
+931,19,Coups et blessures volontaires intrafamiliaux,75,8623
+932,19,Coups et blessures volontaires intrafamiliaux,76,9450
+933,19,Coups et blessures volontaires intrafamiliaux,84,12527
+934,19,Coups et blessures volontaires intrafamiliaux,93,10646
+935,19,Coups et blessures volontaires intrafamiliaux,94,527
+936,19,Destructions et dégradations volontaires,1,2683
+937,19,Destructions et dégradations volontaires,2,2292
+938,19,Destructions et dégradations volontaires,3,1402
+939,19,Destructions et dégradations volontaires,4,4854
+940,19,Destructions et dégradations volontaires,6,1115
+941,19,Destructions et dégradations volontaires,11,121753
+942,19,Destructions et dégradations volontaires,24,19550
+943,19,Destructions et dégradations volontaires,27,22250
+944,19,Destructions et dégradations volontaires,28,27235
+945,19,Destructions et dégradations volontaires,32,62922
+946,19,Destructions et dégradations volontaires,44,46454
+947,19,Destructions et dégradations volontaires,52,31056
+948,19,Destructions et dégradations volontaires,53,24954
+949,19,Destructions et dégradations volontaires,75,51132
+950,19,Destructions et dégradations volontaires,76,53081
+951,19,Destructions et dégradations volontaires,84,71523
+952,19,Destructions et dégradations volontaires,93,55258
+953,19,Destructions et dégradations volontaires,94,3420
+954,19,Escroqueries,1,1384
+955,19,Escroqueries,2,798
+956,19,Escroqueries,3,597
+957,19,Escroqueries,4,1772
+958,19,Escroqueries,6,186
+959,19,Escroqueries,11,77772
+960,19,Escroqueries,24,10419
+961,19,Escroqueries,27,10288
+962,19,Escroqueries,28,11737
+963,19,Escroqueries,32,21926
+964,19,Escroqueries,44,19346
+965,19,Escroqueries,52,14877
+966,19,Escroqueries,53,12022
+967,19,Escroqueries,75,22841
+968,19,Escroqueries,76,25840
+969,19,Escroqueries,84,33848
+970,19,Escroqueries,93,24670
+971,19,Escroqueries,94,1114
+972,19,Homicides,1,15
+973,19,Homicides,2,26
+974,19,Homicides,3,32
+975,19,Homicides,4,15
+976,19,Homicides,6,10
+977,19,Homicides,11,140
+978,19,Homicides,24,26
+979,19,Homicides,27,26
+980,19,Homicides,28,37
+981,19,Homicides,32,70
+982,19,Homicides,44,67
+983,19,Homicides,52,33
+984,19,Homicides,53,27
+985,19,Homicides,75,63
+986,19,Homicides,76,75
+987,19,Homicides,84,88
+988,19,Homicides,93,98
+989,19,Homicides,94,9
+990,19,Trafic de stupéfiants,1,323
+991,19,Trafic de stupéfiants,2,255
+992,19,Trafic de stupéfiants,3,577
+993,19,Trafic de stupéfiants,4,263
+994,19,Trafic de stupéfiants,6,67
+995,19,Trafic de stupéfiants,11,15436
+996,19,Trafic de stupéfiants,24,1041
+997,19,Trafic de stupéfiants,27,1611
+998,19,Trafic de stupéfiants,28,1472
+999,19,Trafic de stupéfiants,32,3280
+1000,19,Trafic de stupéfiants,44,2820
+1001,19,Trafic de stupéfiants,52,1645
+1002,19,Trafic de stupéfiants,53,1781
+1003,19,Trafic de stupéfiants,75,3004
+1004,19,Trafic de stupéfiants,76,3886
+1005,19,Trafic de stupéfiants,84,4638
+1006,19,Trafic de stupéfiants,93,4898
+1007,19,Trafic de stupéfiants,94,104
+1008,19,Usage de stupéfiants,1,1297
+1009,19,Usage de stupéfiants,2,1047
+1010,19,Usage de stupéfiants,3,268
+1011,19,Usage de stupéfiants,4,1810
+1012,19,Usage de stupéfiants,6,121
+1013,19,Usage de stupéfiants,11,47654
+1014,19,Usage de stupéfiants,24,5177
+1015,19,Usage de stupéfiants,27,6524
+1016,19,Usage de stupéfiants,28,7042
+1017,19,Usage de stupéfiants,32,18346
+1018,19,Usage de stupéfiants,44,12181
+1019,19,Usage de stupéfiants,52,6832
+1020,19,Usage de stupéfiants,53,6250
+1021,19,Usage de stupéfiants,75,12046
+1022,19,Usage de stupéfiants,76,12497
+1023,19,Usage de stupéfiants,84,21893
+1024,19,Usage de stupéfiants,93,15852
+1025,19,Usage de stupéfiants,94,654
+1026,19,Violences sexuelles,1,453
+1027,19,Violences sexuelles,2,497
+1028,19,Violences sexuelles,3,603
+1029,19,Violences sexuelles,4,1317
+1030,19,Violences sexuelles,6,353
+1031,19,Violences sexuelles,11,13988
+1032,19,Violences sexuelles,24,3027
+1033,19,Violences sexuelles,27,3058
+1034,19,Violences sexuelles,28,4084
+1035,19,Violences sexuelles,32,8353
+1036,19,Violences sexuelles,44,5846
+1037,19,Violences sexuelles,52,4546
+1038,19,Violences sexuelles,53,3466
+1039,19,Violences sexuelles,75,6486
+1040,19,Violences sexuelles,76,6012
+1041,19,Violences sexuelles,84,8015
+1042,19,Violences sexuelles,93,4927
+1043,19,Violences sexuelles,94,297
+1044,19,Vols avec armes,1,463
+1045,19,Vols avec armes,2,228
+1046,19,Vols avec armes,3,696
+1047,19,Vols avec armes,4,61
+1048,19,Vols avec armes,6,305
+1049,19,Vols avec armes,11,2460
+1050,19,Vols avec armes,24,167
+1051,19,Vols avec armes,27,219
+1052,19,Vols avec armes,28,214
+1053,19,Vols avec armes,32,694
+1054,19,Vols avec armes,44,331
+1055,19,Vols avec armes,52,351
+1056,19,Vols avec armes,53,165
+1057,19,Vols avec armes,75,326
+1058,19,Vols avec armes,76,551
+1059,19,Vols avec armes,84,844
+1060,19,Vols avec armes,93,1012
+1061,19,Vols avec armes,94,24
+1062,19,Vols d'accessoires sur véhicules,1,536
+1063,19,Vols d'accessoires sur véhicules,2,311
+1064,19,Vols d'accessoires sur véhicules,3,123
+1065,19,Vols d'accessoires sur véhicules,4,468
+1066,19,Vols d'accessoires sur véhicules,6,105
+1067,19,Vols d'accessoires sur véhicules,11,18732
+1068,19,Vols d'accessoires sur véhicules,24,3382
+1069,19,Vols d'accessoires sur véhicules,27,3101
+1070,19,Vols d'accessoires sur véhicules,28,4022
+1071,19,Vols d'accessoires sur véhicules,32,9462
+1072,19,Vols d'accessoires sur véhicules,44,5404
+1073,19,Vols d'accessoires sur véhicules,52,6285
+1074,19,Vols d'accessoires sur véhicules,53,3745
+1075,19,Vols d'accessoires sur véhicules,75,7367
+1076,19,Vols d'accessoires sur véhicules,76,8153
+1077,19,Vols d'accessoires sur véhicules,84,10911
+1078,19,Vols d'accessoires sur véhicules,93,8639
+1079,19,Vols d'accessoires sur véhicules,94,359
+1080,19,Vols dans les véhicules,1,2300
+1081,19,Vols dans les véhicules,2,1727
+1082,19,Vols dans les véhicules,3,1280
+1083,19,Vols dans les véhicules,4,1803
+1084,19,Vols dans les véhicules,6,491
+1085,19,Vols dans les véhicules,11,60265
+1086,19,Vols dans les véhicules,24,5903
+1087,19,Vols dans les véhicules,27,5280
+1088,19,Vols dans les véhicules,28,10045
+1089,19,Vols dans les véhicules,32,25306
+1090,19,Vols dans les véhicules,44,12504
+1091,19,Vols dans les véhicules,52,19038
+1092,19,Vols dans les véhicules,53,7527
+1093,19,Vols dans les véhicules,75,22126
+1094,19,Vols dans les véhicules,76,30986
+1095,19,Vols dans les véhicules,84,36617
+1096,19,Vols dans les véhicules,93,26276
+1097,19,Vols dans les véhicules,94,356
+1098,19,Vols de véhicules,1,611
+1099,19,Vols de véhicules,2,589
+1100,19,Vols de véhicules,3,793
+1101,19,Vols de véhicules,4,1037
+1102,19,Vols de véhicules,6,462
+1103,19,Vols de véhicules,11,39269
+1104,19,Vols de véhicules,24,3216
+1105,19,Vols de véhicules,27,3447
+1106,19,Vols de véhicules,28,4379
+1107,19,Vols de véhicules,32,13524
+1108,19,Vols de véhicules,44,6177
+1109,19,Vols de véhicules,52,7182
+1110,19,Vols de véhicules,53,3370
+1111,19,Vols de véhicules,75,9352
+1112,19,Vols de véhicules,76,11969
+1113,19,Vols de véhicules,84,16558
+1114,19,Vols de véhicules,93,17319
+1115,19,Vols de véhicules,94,697
+1116,19,Vols sans violence contre des personnes,1,2852
+1117,19,Vols sans violence contre des personnes,2,2322
+1118,19,Vols sans violence contre des personnes,3,2459
+1119,19,Vols sans violence contre des personnes,4,3947
+1120,19,Vols sans violence contre des personnes,6,1279
+1121,19,Vols sans violence contre des personnes,11,268528
+1122,19,Vols sans violence contre des personnes,24,15764
+1123,19,Vols sans violence contre des personnes,27,15718
+1124,19,Vols sans violence contre des personnes,28,20774
+1125,19,Vols sans violence contre des personnes,32,44106
+1126,19,Vols sans violence contre des personnes,44,36867
+1127,19,Vols sans violence contre des personnes,52,30942
+1128,19,Vols sans violence contre des personnes,53,21990
+1129,19,Vols sans violence contre des personnes,75,49521
+1130,19,Vols sans violence contre des personnes,76,62815
+1131,19,Vols sans violence contre des personnes,84,79418
+1132,19,Vols sans violence contre des personnes,93,62023
+1133,19,Vols sans violence contre des personnes,94,1821
+1134,19,Vols violents sans arme,1,577
+1135,19,Vols violents sans arme,2,360
+1136,19,Vols violents sans arme,3,870
+1137,19,Vols violents sans arme,4,665
+1138,19,Vols violents sans arme,6,426
+1139,19,Vols violents sans arme,11,39011
+1140,19,Vols violents sans arme,24,1305
+1141,19,Vols violents sans arme,27,862
+1142,19,Vols violents sans arme,28,2096
+1143,19,Vols violents sans arme,32,5485
+1144,19,Vols violents sans arme,44,2425
+1145,19,Vols violents sans arme,52,3011
+1146,19,Vols violents sans arme,53,1475
+1147,19,Vols violents sans arme,75,3560
+1148,19,Vols violents sans arme,76,5318
+1149,19,Vols violents sans arme,84,6262
+1150,19,Vols violents sans arme,93,7094
+1151,19,Vols violents sans arme,94,88
+1152,20,Autres coups et blessures volontaires,1,1503
+1153,20,Autres coups et blessures volontaires,2,1184
+1154,20,Autres coups et blessures volontaires,3,1326
+1155,20,Autres coups et blessures volontaires,4,2120
+1156,20,Autres coups et blessures volontaires,6,1106
+1157,20,Autres coups et blessures volontaires,11,23467
+1158,20,Autres coups et blessures volontaires,24,3816
+1159,20,Autres coups et blessures volontaires,27,4416
+1160,20,Autres coups et blessures volontaires,28,4937
+1161,20,Autres coups et blessures volontaires,32,11698
+1162,20,Autres coups et blessures volontaires,44,8997
+1163,20,Autres coups et blessures volontaires,52,5283
+1164,20,Autres coups et blessures volontaires,53,4757
+1165,20,Autres coups et blessures volontaires,75,9012
+1166,20,Autres coups et blessures volontaires,76,10922
+1167,20,Autres coups et blessures volontaires,84,13391
+1168,20,Autres coups et blessures volontaires,93,11243
+1169,20,Autres coups et blessures volontaires,94,597
+1170,20,Cambriolages de logement,1,1007
+1171,20,Cambriolages de logement,2,800
+1172,20,Cambriolages de logement,3,853
+1173,20,Cambriolages de logement,4,1002
+1174,20,Cambriolages de logement,6,510
+1175,20,Cambriolages de logement,11,40715
+1176,20,Cambriolages de logement,24,5820
+1177,20,Cambriolages de logement,27,5835
+1178,20,Cambriolages de logement,28,6192
+1179,20,Cambriolages de logement,32,17246
+1180,20,Cambriolages de logement,44,10696
+1181,20,Cambriolages de logement,52,10386
+1182,20,Cambriolages de logement,53,5780
+1183,20,Cambriolages de logement,75,17861
+1184,20,Cambriolages de logement,76,19334
+1185,20,Cambriolages de logement,84,25316
+1186,20,Cambriolages de logement,93,19568
+1187,20,Cambriolages de logement,94,368
+1188,20,Coups et blessures volontaires,1,2904
+1189,20,Coups et blessures volontaires,2,2290
+1190,20,Coups et blessures volontaires,3,2358
+1191,20,Coups et blessures volontaires,4,4832
+1192,20,Coups et blessures volontaires,6,1467
+1193,20,Coups et blessures volontaires,11,50627
+1194,20,Coups et blessures volontaires,24,8420
+1195,20,Coups et blessures volontaires,27,9437
+1196,20,Coups et blessures volontaires,28,10501
+1197,20,Coups et blessures volontaires,32,26422
+1198,20,Coups et blessures volontaires,44,19541
+1199,20,Coups et blessures volontaires,52,11628
+1200,20,Coups et blessures volontaires,53,10462
+1201,20,Coups et blessures volontaires,75,18786
+1202,20,Coups et blessures volontaires,76,21700
+1203,20,Coups et blessures volontaires,84,27171
+1204,20,Coups et blessures volontaires,93,22684
+1205,20,Coups et blessures volontaires,94,1166
+1206,20,Coups et blessures volontaires intrafamiliaux,1,1401
+1207,20,Coups et blessures volontaires intrafamiliaux,2,1106
+1208,20,Coups et blessures volontaires intrafamiliaux,3,1032
+1209,20,Coups et blessures volontaires intrafamiliaux,4,2712
+1210,20,Coups et blessures volontaires intrafamiliaux,6,361
+1211,20,Coups et blessures volontaires intrafamiliaux,11,27160
+1212,20,Coups et blessures volontaires intrafamiliaux,24,4604
+1213,20,Coups et blessures volontaires intrafamiliaux,27,5021
+1214,20,Coups et blessures volontaires intrafamiliaux,28,5564
+1215,20,Coups et blessures volontaires intrafamiliaux,32,14724
+1216,20,Coups et blessures volontaires intrafamiliaux,44,10544
+1217,20,Coups et blessures volontaires intrafamiliaux,52,6345
+1218,20,Coups et blessures volontaires intrafamiliaux,53,5705
+1219,20,Coups et blessures volontaires intrafamiliaux,75,9774
+1220,20,Coups et blessures volontaires intrafamiliaux,76,10778
+1221,20,Coups et blessures volontaires intrafamiliaux,84,13780
+1222,20,Coups et blessures volontaires intrafamiliaux,93,11441
+1223,20,Coups et blessures volontaires intrafamiliaux,94,569
+1224,20,Destructions et dégradations volontaires,1,2626
+1225,20,Destructions et dégradations volontaires,2,2226
+1226,20,Destructions et dégradations volontaires,3,1279
+1227,20,Destructions et dégradations volontaires,4,4052
+1228,20,Destructions et dégradations volontaires,6,1758
+1229,20,Destructions et dégradations volontaires,11,105173
+1230,20,Destructions et dégradations volontaires,24,16140
+1231,20,Destructions et dégradations volontaires,27,19094
+1232,20,Destructions et dégradations volontaires,28,22275
+1233,20,Destructions et dégradations volontaires,32,53220
+1234,20,Destructions et dégradations volontaires,44,40012
+1235,20,Destructions et dégradations volontaires,52,26170
+1236,20,Destructions et dégradations volontaires,53,21807
+1237,20,Destructions et dégradations volontaires,75,43891
+1238,20,Destructions et dégradations volontaires,76,45063
+1239,20,Destructions et dégradations volontaires,84,62671
+1240,20,Destructions et dégradations volontaires,93,48189
+1241,20,Destructions et dégradations volontaires,94,2847
+1242,20,Escroqueries,1,1329
+1243,20,Escroqueries,2,1137
+1244,20,Escroqueries,3,702
+1245,20,Escroqueries,4,1521
+1246,20,Escroqueries,6,249
+1247,20,Escroqueries,11,73480
+1248,20,Escroqueries,24,11326
+1249,20,Escroqueries,27,11608
+1250,20,Escroqueries,28,13176
+1251,20,Escroqueries,32,22327
+1252,20,Escroqueries,44,21284
+1253,20,Escroqueries,52,15875
+1254,20,Escroqueries,53,12683
+1255,20,Escroqueries,75,25348
+1256,20,Escroqueries,76,27709
+1257,20,Escroqueries,84,38189
+1258,20,Escroqueries,93,26602
+1259,20,Escroqueries,94,1229
+1260,20,Homicides,1,25
+1261,20,Homicides,2,19
+1262,20,Homicides,3,43
+1263,20,Homicides,4,11
+1264,20,Homicides,6,14
+1265,20,Homicides,11,122
+1266,20,Homicides,24,26
+1267,20,Homicides,27,24
+1268,20,Homicides,28,46
+1269,20,Homicides,32,69
+1270,20,Homicides,44,53
+1271,20,Homicides,52,27
+1272,20,Homicides,53,20
+1273,20,Homicides,75,77
+1274,20,Homicides,76,64
+1275,20,Homicides,84,83
+1276,20,Homicides,93,92
+1277,20,Homicides,94,8
+1278,20,Trafic de stupéfiants,1,247
+1279,20,Trafic de stupéfiants,2,266
+1280,20,Trafic de stupéfiants,3,416
+1281,20,Trafic de stupéfiants,4,202
+1282,20,Trafic de stupéfiants,6,61
+1283,20,Trafic de stupéfiants,11,13062
+1284,20,Trafic de stupéfiants,24,1038
+1285,20,Trafic de stupéfiants,27,1347
+1286,20,Trafic de stupéfiants,28,1315
+1287,20,Trafic de stupéfiants,32,2855
+1288,20,Trafic de stupéfiants,44,2525
+1289,20,Trafic de stupéfiants,52,1243
+1290,20,Trafic de stupéfiants,53,1581
+1291,20,Trafic de stupéfiants,75,2534
+1292,20,Trafic de stupéfiants,76,3384
+1293,20,Trafic de stupéfiants,84,4507
+1294,20,Trafic de stupéfiants,93,4484
+1295,20,Trafic de stupéfiants,94,154
+1296,20,Usage de stupéfiants,1,1281
+1297,20,Usage de stupéfiants,2,959
+1298,20,Usage de stupéfiants,3,293
+1299,20,Usage de stupéfiants,4,1472
+1300,20,Usage de stupéfiants,6,126
+1301,20,Usage de stupéfiants,11,39827
+1302,20,Usage de stupéfiants,24,4756
+1303,20,Usage de stupéfiants,27,6251
+1304,20,Usage de stupéfiants,28,6349
+1305,20,Usage de stupéfiants,32,15674
+1306,20,Usage de stupéfiants,44,10514
+1307,20,Usage de stupéfiants,52,5913
+1308,20,Usage de stupéfiants,53,6578
+1309,20,Usage de stupéfiants,75,10505
+1310,20,Usage de stupéfiants,76,12434
+1311,20,Usage de stupéfiants,84,20185
+1312,20,Usage de stupéfiants,93,17014
+1313,20,Usage de stupéfiants,94,654
+1314,20,Violences sexuelles,1,472
+1315,20,Violences sexuelles,2,553
+1316,20,Violences sexuelles,3,547
+1317,20,Violences sexuelles,4,1310
+1318,20,Violences sexuelles,6,329
+1319,20,Violences sexuelles,11,13482
+1320,20,Violences sexuelles,24,3018
+1321,20,Violences sexuelles,27,3232
+1322,20,Violences sexuelles,28,4213
+1323,20,Violences sexuelles,32,8008
+1324,20,Violences sexuelles,44,6272
+1325,20,Violences sexuelles,52,4667
+1326,20,Violences sexuelles,53,3848
+1327,20,Violences sexuelles,75,7189
+1328,20,Violences sexuelles,76,6433
+1329,20,Violences sexuelles,84,8281
+1330,20,Violences sexuelles,93,4930
+1331,20,Violences sexuelles,94,294
+1332,20,Vols avec armes,1,307
+1333,20,Vols avec armes,2,242
+1334,20,Vols avec armes,3,709
+1335,20,Vols avec armes,4,43
+1336,20,Vols avec armes,6,487
+1337,20,Vols avec armes,11,2226
+1338,20,Vols avec armes,24,160
+1339,20,Vols avec armes,27,163
+1340,20,Vols avec armes,28,191
+1341,20,Vols avec armes,32,542
+1342,20,Vols avec armes,44,296
+1343,20,Vols avec armes,52,310
+1344,20,Vols avec armes,53,182
+1345,20,Vols avec armes,75,402
+1346,20,Vols avec armes,76,602
+1347,20,Vols avec armes,84,798
+1348,20,Vols avec armes,93,901
+1349,20,Vols avec armes,94,10
+1350,20,Vols d'accessoires sur véhicules,1,364
+1351,20,Vols d'accessoires sur véhicules,2,279
+1352,20,Vols d'accessoires sur véhicules,3,104
+1353,20,Vols d'accessoires sur véhicules,4,287
+1354,20,Vols d'accessoires sur véhicules,6,86
+1355,20,Vols d'accessoires sur véhicules,11,16473
+1356,20,Vols d'accessoires sur véhicules,24,2906
+1357,20,Vols d'accessoires sur véhicules,27,2559
+1358,20,Vols d'accessoires sur véhicules,28,2902
+1359,20,Vols d'accessoires sur véhicules,32,7910
+1360,20,Vols d'accessoires sur véhicules,44,4553
+1361,20,Vols d'accessoires sur véhicules,52,5129
+1362,20,Vols d'accessoires sur véhicules,53,2927
+1363,20,Vols d'accessoires sur véhicules,75,5513
+1364,20,Vols d'accessoires sur véhicules,76,6656
+1365,20,Vols d'accessoires sur véhicules,84,8537
+1366,20,Vols d'accessoires sur véhicules,93,7412
+1367,20,Vols d'accessoires sur véhicules,94,262
+1368,20,Vols dans les véhicules,1,1509
+1369,20,Vols dans les véhicules,2,1125
+1370,20,Vols dans les véhicules,3,1137
+1371,20,Vols dans les véhicules,4,1293
+1372,20,Vols dans les véhicules,6,470
+1373,20,Vols dans les véhicules,11,51340
+1374,20,Vols dans les véhicules,24,5321
+1375,20,Vols dans les véhicules,27,4747
+1376,20,Vols dans les véhicules,28,7599
+1377,20,Vols dans les véhicules,32,23472
+1378,20,Vols dans les véhicules,44,11368
+1379,20,Vols dans les véhicules,52,14575
+1380,20,Vols dans les véhicules,53,5873
+1381,20,Vols dans les véhicules,75,18397
+1382,20,Vols dans les véhicules,76,25152
+1383,20,Vols dans les véhicules,84,28319
+1384,20,Vols dans les véhicules,93,21926
+1385,20,Vols dans les véhicules,94,322
+1386,20,Vols de véhicules,1,554
+1387,20,Vols de véhicules,2,449
+1388,20,Vols de véhicules,3,670
+1389,20,Vols de véhicules,4,869
+1390,20,Vols de véhicules,6,510
+1391,20,Vols de véhicules,11,34284
+1392,20,Vols de véhicules,24,2833
+1393,20,Vols de véhicules,27,3211
+1394,20,Vols de véhicules,28,4010
+1395,20,Vols de véhicules,32,12250
+1396,20,Vols de véhicules,44,5387
+1397,20,Vols de véhicules,52,6271
+1398,20,Vols de véhicules,53,2837
+1399,20,Vols de véhicules,75,8373
+1400,20,Vols de véhicules,76,9737
+1401,20,Vols de véhicules,84,13833
+1402,20,Vols de véhicules,93,15174
+1403,20,Vols de véhicules,94,529
+1404,20,Vols sans violence contre des personnes,1,2431
+1405,20,Vols sans violence contre des personnes,2,1617
+1406,20,Vols sans violence contre des personnes,3,1961
+1407,20,Vols sans violence contre des personnes,4,2977
+1408,20,Vols sans violence contre des personnes,6,1133
+1409,20,Vols sans violence contre des personnes,11,200387
+1410,20,Vols sans violence contre des personnes,24,11953
+1411,20,Vols sans violence contre des personnes,27,12673
+1412,20,Vols sans violence contre des personnes,28,16325
+1413,20,Vols sans violence contre des personnes,32,32453
+1414,20,Vols sans violence contre des personnes,44,28315
+1415,20,Vols sans violence contre des personnes,52,22421
+1416,20,Vols sans violence contre des personnes,53,16639
+1417,20,Vols sans violence contre des personnes,75,37234
+1418,20,Vols sans violence contre des personnes,76,48796
+1419,20,Vols sans violence contre des personnes,84,62924
+1420,20,Vols sans violence contre des personnes,93,49664
+1421,20,Vols sans violence contre des personnes,94,1401
+1422,20,Vols violents sans arme,1,381
+1423,20,Vols violents sans arme,2,295
+1424,20,Vols violents sans arme,3,697
+1425,20,Vols violents sans arme,4,430
+1426,20,Vols violents sans arme,6,571
+1427,20,Vols violents sans arme,11,32337
+1428,20,Vols violents sans arme,24,971
+1429,20,Vols violents sans arme,27,767
+1430,20,Vols violents sans arme,28,1542
+1431,20,Vols violents sans arme,32,4142
+1432,20,Vols violents sans arme,44,1951
+1433,20,Vols violents sans arme,52,2222
+1434,20,Vols violents sans arme,53,1158
+1435,20,Vols violents sans arme,75,2881
+1436,20,Vols violents sans arme,76,4005
+1437,20,Vols violents sans arme,84,5530
+1438,20,Vols violents sans arme,93,5693
+1439,20,Vols violents sans arme,94,51
+1440,21,Autres coups et blessures volontaires,1,1514
+1441,21,Autres coups et blessures volontaires,2,1316
+1442,21,Autres coups et blessures volontaires,3,1501
+1443,21,Autres coups et blessures volontaires,4,2174
+1444,21,Autres coups et blessures volontaires,6,1167
+1445,21,Autres coups et blessures volontaires,11,24914
+1446,21,Autres coups et blessures volontaires,24,3897
+1447,21,Autres coups et blessures volontaires,27,4634
+1448,21,Autres coups et blessures volontaires,28,5557
+1449,21,Autres coups et blessures volontaires,32,12695
+1450,21,Autres coups et blessures volontaires,44,9840
+1451,21,Autres coups et blessures volontaires,52,5451
+1452,21,Autres coups et blessures volontaires,53,4635
+1453,21,Autres coups et blessures volontaires,75,9366
+1454,21,Autres coups et blessures volontaires,76,11284
+1455,21,Autres coups et blessures volontaires,84,14838
+1456,21,Autres coups et blessures volontaires,93,12040
+1457,21,Autres coups et blessures volontaires,94,590
+1458,21,Cambriolages de logement,1,933
+1459,21,Cambriolages de logement,2,613
+1460,21,Cambriolages de logement,3,1113
+1461,21,Cambriolages de logement,4,843
+1462,21,Cambriolages de logement,6,432
+1463,21,Cambriolages de logement,11,40370
+1464,21,Cambriolages de logement,24,5993
+1465,21,Cambriolages de logement,27,5461
+1466,21,Cambriolages de logement,28,5802
+1467,21,Cambriolages de logement,32,15807
+1468,21,Cambriolages de logement,44,9958
+1469,21,Cambriolages de logement,52,9931
+1470,21,Cambriolages de logement,53,5767
+1471,21,Cambriolages de logement,75,17912
+1472,21,Cambriolages de logement,76,18658
+1473,21,Cambriolages de logement,84,27212
+1474,21,Cambriolages de logement,93,22747
+1475,21,Cambriolages de logement,94,340
+1476,21,Coups et blessures volontaires,1,2985
+1477,21,Coups et blessures volontaires,2,2588
+1478,21,Coups et blessures volontaires,3,2714
+1479,21,Coups et blessures volontaires,4,5358
+1480,21,Coups et blessures volontaires,6,1685
+1481,21,Coups et blessures volontaires,11,55064
+1482,21,Coups et blessures volontaires,24,9234
+1483,21,Coups et blessures volontaires,27,10210
+1484,21,Coups et blessures volontaires,28,12442
+1485,21,Coups et blessures volontaires,32,30300
+1486,21,Coups et blessures volontaires,44,22581
+1487,21,Coups et blessures volontaires,52,12223
+1488,21,Coups et blessures volontaires,53,10489
+1489,21,Coups et blessures volontaires,75,21496
+1490,21,Coups et blessures volontaires,76,23423
+1491,21,Coups et blessures volontaires,84,30385
+1492,21,Coups et blessures volontaires,93,24737
+1493,21,Coups et blessures volontaires,94,1175
+1494,21,Coups et blessures volontaires intrafamiliaux,1,1471
+1495,21,Coups et blessures volontaires intrafamiliaux,2,1272
+1496,21,Coups et blessures volontaires intrafamiliaux,3,1213
+1497,21,Coups et blessures volontaires intrafamiliaux,4,3184
+1498,21,Coups et blessures volontaires intrafamiliaux,6,518
+1499,21,Coups et blessures volontaires intrafamiliaux,11,30150
+1500,21,Coups et blessures volontaires intrafamiliaux,24,5337
+1501,21,Coups et blessures volontaires intrafamiliaux,27,5576
+1502,21,Coups et blessures volontaires intrafamiliaux,28,6885
+1503,21,Coups et blessures volontaires intrafamiliaux,32,17605
+1504,21,Coups et blessures volontaires intrafamiliaux,44,12741
+1505,21,Coups et blessures volontaires intrafamiliaux,52,6772
+1506,21,Coups et blessures volontaires intrafamiliaux,53,5854
+1507,21,Coups et blessures volontaires intrafamiliaux,75,12130
+1508,21,Coups et blessures volontaires intrafamiliaux,76,12139
+1509,21,Coups et blessures volontaires intrafamiliaux,84,15547
+1510,21,Coups et blessures volontaires intrafamiliaux,93,12697
+1511,21,Coups et blessures volontaires intrafamiliaux,94,585
+1512,21,Destructions et dégradations volontaires,1,2922
+1513,21,Destructions et dégradations volontaires,2,2260
+1514,21,Destructions et dégradations volontaires,3,1494
+1515,21,Destructions et dégradations volontaires,4,4487
+1516,21,Destructions et dégradations volontaires,6,1721
+1517,21,Destructions et dégradations volontaires,11,104333
+1518,21,Destructions et dégradations volontaires,24,16888
+1519,21,Destructions et dégradations volontaires,27,19254
+1520,21,Destructions et dégradations volontaires,28,22730
+1521,21,Destructions et dégradations volontaires,32,52863
+1522,21,Destructions et dégradations volontaires,44,40416
+1523,21,Destructions et dégradations volontaires,52,27252
+1524,21,Destructions et dégradations volontaires,53,22671
+1525,21,Destructions et dégradations volontaires,75,46256
+1526,21,Destructions et dégradations volontaires,76,45634
+1527,21,Destructions et dégradations volontaires,84,64998
+1528,21,Destructions et dégradations volontaires,93,51628
+1529,21,Destructions et dégradations volontaires,94,3202
+1530,21,Escroqueries,1,1771
+1531,21,Escroqueries,2,1266
+1532,21,Escroqueries,3,876
+1533,21,Escroqueries,4,2023
+1534,21,Escroqueries,6,333
+1535,21,Escroqueries,11,86972
+1536,21,Escroqueries,24,13144
+1537,21,Escroqueries,27,13205
+1538,21,Escroqueries,28,14277
+1539,21,Escroqueries,32,25236
+1540,21,Escroqueries,44,24919
+1541,21,Escroqueries,52,18730
+1542,21,Escroqueries,53,14765
+1543,21,Escroqueries,75,29423
+1544,21,Escroqueries,76,32579
+1545,21,Escroqueries,84,45035
+1546,21,Escroqueries,93,31253
+1547,21,Escroqueries,94,1439
+1548,21,Homicides,1,23
+1549,21,Homicides,2,18
+1550,21,Homicides,3,28
+1551,21,Homicides,4,17
+1552,21,Homicides,6,11
+1553,21,Homicides,11,180
+1554,21,Homicides,24,24
+1555,21,Homicides,27,23
+1556,21,Homicides,28,36
+1557,21,Homicides,32,64
+1558,21,Homicides,44,52
+1559,21,Homicides,52,35
+1560,21,Homicides,53,38
+1561,21,Homicides,75,69
+1562,21,Homicides,76,77
+1563,21,Homicides,84,67
+1564,21,Homicides,93,106
+1565,21,Homicides,94,14
+1566,21,Trafic de stupéfiants,1,298
+1567,21,Trafic de stupéfiants,2,396
+1568,21,Trafic de stupéfiants,3,531
+1569,21,Trafic de stupéfiants,4,270
+1570,21,Trafic de stupéfiants,6,68
+1571,21,Trafic de stupéfiants,11,14559
+1572,21,Trafic de stupéfiants,24,1122
+1573,21,Trafic de stupéfiants,27,1502
+1574,21,Trafic de stupéfiants,28,1297
+1575,21,Trafic de stupéfiants,32,3300
+1576,21,Trafic de stupéfiants,44,2614
+1577,21,Trafic de stupéfiants,52,1569
+1578,21,Trafic de stupéfiants,53,1884
+1579,21,Trafic de stupéfiants,75,2824
+1580,21,Trafic de stupéfiants,76,4039
+1581,21,Trafic de stupéfiants,84,4610
+1582,21,Trafic de stupéfiants,93,5670
+1583,21,Trafic de stupéfiants,94,224
+1584,21,Usage de stupéfiants,1,1445
+1585,21,Usage de stupéfiants,2,1276
+1586,21,Usage de stupéfiants,3,373
+1587,21,Usage de stupéfiants,4,1443
+1588,21,Usage de stupéfiants,6,150
+1589,21,Usage de stupéfiants,11,57425
+1590,21,Usage de stupéfiants,24,6571
+1591,21,Usage de stupéfiants,27,8287
+1592,21,Usage de stupéfiants,28,10060
+1593,21,Usage de stupéfiants,32,21532
+1594,21,Usage de stupéfiants,44,12684
+1595,21,Usage de stupéfiants,52,6582
+1596,21,Usage de stupéfiants,53,8083
+1597,21,Usage de stupéfiants,75,12822
+1598,21,Usage de stupéfiants,76,16796
+1599,21,Usage de stupéfiants,84,25541
+1600,21,Usage de stupéfiants,93,29567
+1601,21,Usage de stupéfiants,94,698
+1602,21,Violences sexuelles,1,619
+1603,21,Violences sexuelles,2,738
+1604,21,Violences sexuelles,3,683
+1605,21,Violences sexuelles,4,1597
+1606,21,Violences sexuelles,6,435
+1607,21,Violences sexuelles,11,16995
+1608,21,Violences sexuelles,24,4042
+1609,21,Violences sexuelles,27,3815
+1610,21,Violences sexuelles,28,5262
+1611,21,Violences sexuelles,32,10118
+1612,21,Violences sexuelles,44,7655
+1613,21,Violences sexuelles,52,5906
+1614,21,Violences sexuelles,53,4597
+1615,21,Violences sexuelles,75,8945
+1616,21,Violences sexuelles,76,8230
+1617,21,Violences sexuelles,84,10059
+1618,21,Violences sexuelles,93,6331
+1619,21,Violences sexuelles,94,353
+1620,21,Vols avec armes,1,281
+1621,21,Vols avec armes,2,245
+1622,21,Vols avec armes,3,1000
+1623,21,Vols avec armes,4,50
+1624,21,Vols avec armes,6,529
+1625,21,Vols avec armes,11,2070
+1626,21,Vols avec armes,24,161
+1627,21,Vols avec armes,27,178
+1628,21,Vols avec armes,28,201
+1629,21,Vols avec armes,32,488
+1630,21,Vols avec armes,44,282
+1631,21,Vols avec armes,52,310
+1632,21,Vols avec armes,53,162
+1633,21,Vols avec armes,75,365
+1634,21,Vols avec armes,76,483
+1635,21,Vols avec armes,84,770
+1636,21,Vols avec armes,93,864
+1637,21,Vols avec armes,94,15
+1638,21,Vols d'accessoires sur véhicules,1,383
+1639,21,Vols d'accessoires sur véhicules,2,270
+1640,21,Vols d'accessoires sur véhicules,3,115
+1641,21,Vols d'accessoires sur véhicules,4,330
+1642,21,Vols d'accessoires sur véhicules,6,73
+1643,21,Vols d'accessoires sur véhicules,11,18175
+1644,21,Vols d'accessoires sur véhicules,24,3019
+1645,21,Vols d'accessoires sur véhicules,27,2410
+1646,21,Vols d'accessoires sur véhicules,28,2865
+1647,21,Vols d'accessoires sur véhicules,32,8066
+1648,21,Vols d'accessoires sur véhicules,44,3795
+1649,21,Vols d'accessoires sur véhicules,52,5985
+1650,21,Vols d'accessoires sur véhicules,53,2834
+1651,21,Vols d'accessoires sur véhicules,75,5319
+1652,21,Vols d'accessoires sur véhicules,76,6133
+1653,21,Vols d'accessoires sur véhicules,84,10520
+1654,21,Vols d'accessoires sur véhicules,93,7213
+1655,21,Vols d'accessoires sur véhicules,94,261
+1656,21,Vols dans les véhicules,1,1738
+1657,21,Vols dans les véhicules,2,938
+1658,21,Vols dans les véhicules,3,1577
+1659,21,Vols dans les véhicules,4,1429
+1660,21,Vols dans les véhicules,6,396
+1661,21,Vols dans les véhicules,11,49304
+1662,21,Vols dans les véhicules,24,6566
+1663,21,Vols dans les véhicules,27,4586
+1664,21,Vols dans les véhicules,28,6017
+1665,21,Vols dans les véhicules,32,21523
+1666,21,Vols dans les véhicules,44,12241
+1667,21,Vols dans les véhicules,52,15933
+1668,21,Vols dans les véhicules,53,5915
+1669,21,Vols dans les véhicules,75,18011
+1670,21,Vols dans les véhicules,76,23453
+1671,21,Vols dans les véhicules,84,32703
+1672,21,Vols dans les véhicules,93,22639
+1673,21,Vols dans les véhicules,94,291
+1674,21,Vols de véhicules,1,516
+1675,21,Vols de véhicules,2,503
+1676,21,Vols de véhicules,3,811
+1677,21,Vols de véhicules,4,957
+1678,21,Vols de véhicules,6,437
+1679,21,Vols de véhicules,11,34567
+1680,21,Vols de véhicules,24,2961
+1681,21,Vols de véhicules,27,3122
+1682,21,Vols de véhicules,28,3980
+1683,21,Vols de véhicules,32,11751
+1684,21,Vols de véhicules,44,5350
+1685,21,Vols de véhicules,52,6767
+1686,21,Vols de véhicules,53,2962
+1687,21,Vols de véhicules,75,8009
+1688,21,Vols de véhicules,76,9017
+1689,21,Vols de véhicules,84,14386
+1690,21,Vols de véhicules,93,15606
+1691,21,Vols de véhicules,94,522
+1692,21,Vols sans violence contre des personnes,1,2383
+1693,21,Vols sans violence contre des personnes,2,1564
+1694,21,Vols sans violence contre des personnes,3,1933
+1695,21,Vols sans violence contre des personnes,4,2904
+1696,21,Vols sans violence contre des personnes,6,1198
+1697,21,Vols sans violence contre des personnes,11,206467
+1698,21,Vols sans violence contre des personnes,24,12874
+1699,21,Vols sans violence contre des personnes,27,12826
+1700,21,Vols sans violence contre des personnes,28,16349
+1701,21,Vols sans violence contre des personnes,32,34376
+1702,21,Vols sans violence contre des personnes,44,30971
+1703,21,Vols sans violence contre des personnes,52,24793
+1704,21,Vols sans violence contre des personnes,53,17194
+1705,21,Vols sans violence contre des personnes,75,39761
+1706,21,Vols sans violence contre des personnes,76,50450
+1707,21,Vols sans violence contre des personnes,84,71475
+1708,21,Vols sans violence contre des personnes,93,53530
+1709,21,Vols sans violence contre des personnes,94,1587
+1710,21,Vols violents sans arme,1,278
+1711,21,Vols violents sans arme,2,311
+1712,21,Vols violents sans arme,3,874
+1713,21,Vols violents sans arme,4,409
+1714,21,Vols violents sans arme,6,541
+1715,21,Vols violents sans arme,11,29820
+1716,21,Vols violents sans arme,24,1026
+1717,21,Vols violents sans arme,27,761
+1718,21,Vols violents sans arme,28,1329
+1719,21,Vols violents sans arme,32,3953
+1720,21,Vols violents sans arme,44,1797
+1721,21,Vols violents sans arme,52,1846
+1722,21,Vols violents sans arme,53,1005
+1723,21,Vols violents sans arme,75,2591
+1724,21,Vols violents sans arme,76,3818
+1725,21,Vols violents sans arme,84,6322
+1726,21,Vols violents sans arme,93,5336
+1727,21,Vols violents sans arme,94,54
+1728,22,Autres coups et blessures volontaires,1,1486
+1729,22,Autres coups et blessures volontaires,2,1303
+1730,22,Autres coups et blessures volontaires,3,1449
+1731,22,Autres coups et blessures volontaires,4,2185
+1732,22,Autres coups et blessures volontaires,6,1261
+1733,22,Autres coups et blessures volontaires,11,28619
+1734,22,Autres coups et blessures volontaires,24,4410
+1735,22,Autres coups et blessures volontaires,27,5204
+1736,22,Autres coups et blessures volontaires,28,6181
+1737,22,Autres coups et blessures volontaires,32,13707
+1738,22,Autres coups et blessures volontaires,44,11121
+1739,22,Autres coups et blessures volontaires,52,6362
+1740,22,Autres coups et blessures volontaires,53,5542
+1741,22,Autres coups et blessures volontaires,75,11184
+1742,22,Autres coups et blessures volontaires,76,12968
+1743,22,Autres coups et blessures volontaires,84,16464
+1744,22,Autres coups et blessures volontaires,93,12931
+1745,22,Autres coups et blessures volontaires,94,623
+1746,22,Cambriolages de logement,1,1004
+1747,22,Cambriolages de logement,2,699
+1748,22,Cambriolages de logement,3,1044
+1749,22,Cambriolages de logement,4,894
+1750,22,Cambriolages de logement,6,448
+1751,22,Cambriolages de logement,11,46319
+1752,22,Cambriolages de logement,24,6601
+1753,22,Cambriolages de logement,27,6193
+1754,22,Cambriolages de logement,28,6506
+1755,22,Cambriolages de logement,32,16280
+1756,22,Cambriolages de logement,44,11579
+1757,22,Cambriolages de logement,52,11987
+1758,22,Cambriolages de logement,53,8146
+1759,22,Cambriolages de logement,75,19602
+1760,22,Cambriolages de logement,76,19754
+1761,22,Cambriolages de logement,84,30593
+1762,22,Cambriolages de logement,93,23466
+1763,22,Cambriolages de logement,94,343
+1764,22,Coups et blessures volontaires,1,3221
+1765,22,Coups et blessures volontaires,2,2779
+1766,22,Coups et blessures volontaires,3,2742
+1767,22,Coups et blessures volontaires,4,5904
+1768,22,Coups et blessures volontaires,6,1829
+1769,22,Coups et blessures volontaires,11,64122
+1770,22,Coups et blessures volontaires,24,10359
+1771,22,Coups et blessures volontaires,27,11603
+1772,22,Coups et blessures volontaires,28,14286
+1773,22,Coups et blessures volontaires,32,34706
+1774,22,Coups et blessures volontaires,44,25681
+1775,22,Coups et blessures volontaires,52,14161
+1776,22,Coups et blessures volontaires,53,12561
+1777,22,Coups et blessures volontaires,75,25386
+1778,22,Coups et blessures volontaires,76,27375
+1779,22,Coups et blessures volontaires,84,34338
+1780,22,Coups et blessures volontaires,93,27772
+1781,22,Coups et blessures volontaires,94,1331
+1782,22,Coups et blessures volontaires intrafamiliaux,1,1735
+1783,22,Coups et blessures volontaires intrafamiliaux,2,1476
+1784,22,Coups et blessures volontaires intrafamiliaux,3,1293
+1785,22,Coups et blessures volontaires intrafamiliaux,4,3719
+1786,22,Coups et blessures volontaires intrafamiliaux,6,568
+1787,22,Coups et blessures volontaires intrafamiliaux,11,35503
+1788,22,Coups et blessures volontaires intrafamiliaux,24,5949
+1789,22,Coups et blessures volontaires intrafamiliaux,27,6399
+1790,22,Coups et blessures volontaires intrafamiliaux,28,8105
+1791,22,Coups et blessures volontaires intrafamiliaux,32,20999
+1792,22,Coups et blessures volontaires intrafamiliaux,44,14560
+1793,22,Coups et blessures volontaires intrafamiliaux,52,7799
+1794,22,Coups et blessures volontaires intrafamiliaux,53,7019
+1795,22,Coups et blessures volontaires intrafamiliaux,75,14202
+1796,22,Coups et blessures volontaires intrafamiliaux,76,14407
+1797,22,Coups et blessures volontaires intrafamiliaux,84,17874
+1798,22,Coups et blessures volontaires intrafamiliaux,93,14841
+1799,22,Coups et blessures volontaires intrafamiliaux,94,708
+1800,22,Destructions et dégradations volontaires,1,2770
+1801,22,Destructions et dégradations volontaires,2,2124
+1802,22,Destructions et dégradations volontaires,3,1428
+1803,22,Destructions et dégradations volontaires,4,4930
+1804,22,Destructions et dégradations volontaires,6,2040
+1805,22,Destructions et dégradations volontaires,11,105088
+1806,22,Destructions et dégradations volontaires,24,17464
+1807,22,Destructions et dégradations volontaires,27,19638
+1808,22,Destructions et dégradations volontaires,28,24295
+1809,22,Destructions et dégradations volontaires,32,52865
+1810,22,Destructions et dégradations volontaires,44,41091
+1811,22,Destructions et dégradations volontaires,52,26666
+1812,22,Destructions et dégradations volontaires,53,23945
+1813,22,Destructions et dégradations volontaires,75,45810
+1814,22,Destructions et dégradations volontaires,76,47985
+1815,22,Destructions et dégradations volontaires,84,64837
+1816,22,Destructions et dégradations volontaires,93,51126
+1817,22,Destructions et dégradations volontaires,94,3394
+1818,22,Escroqueries,1,1450
+1819,22,Escroqueries,2,1442
+1820,22,Escroqueries,3,665
+1821,22,Escroqueries,4,1812
+1822,22,Escroqueries,6,504
+1823,22,Escroqueries,11,92680
+1824,22,Escroqueries,24,14038
+1825,22,Escroqueries,27,13961
+1826,22,Escroqueries,28,16301
+1827,22,Escroqueries,32,28453
+1828,22,Escroqueries,44,26149
+1829,22,Escroqueries,52,19961
+1830,22,Escroqueries,53,17077
+1831,22,Escroqueries,75,33295
+1832,22,Escroqueries,76,35819
+1833,22,Escroqueries,84,46951
+1834,22,Escroqueries,93,34036
+1835,22,Escroqueries,94,1590
+1836,22,Homicides,1,27
+1837,22,Homicides,2,29
+1838,22,Homicides,3,48
+1839,22,Homicides,4,17
+1840,22,Homicides,6,14
+1841,22,Homicides,11,140
+1842,22,Homicides,24,30
+1843,22,Homicides,27,34
+1844,22,Homicides,28,33
+1845,22,Homicides,32,67
+1846,22,Homicides,44,62
+1847,22,Homicides,52,48
+1848,22,Homicides,53,54
+1849,22,Homicides,75,65
+1850,22,Homicides,76,77
+1851,22,Homicides,84,78
+1852,22,Homicides,93,124
+1853,22,Homicides,94,12
+1854,22,Trafic de stupéfiants,1,306
+1855,22,Trafic de stupéfiants,2,389
+1856,22,Trafic de stupéfiants,3,838
+1857,22,Trafic de stupéfiants,4,217
+1858,22,Trafic de stupéfiants,6,70
+1859,22,Trafic de stupéfiants,11,16249
+1860,22,Trafic de stupéfiants,24,926
+1861,22,Trafic de stupéfiants,27,1583
+1862,22,Trafic de stupéfiants,28,1303
+1863,22,Trafic de stupéfiants,32,3241
+1864,22,Trafic de stupéfiants,44,2677
+1865,22,Trafic de stupéfiants,52,1549
+1866,22,Trafic de stupéfiants,53,1604
+1867,22,Trafic de stupéfiants,75,2776
+1868,22,Trafic de stupéfiants,76,4363
+1869,22,Trafic de stupéfiants,84,4642
+1870,22,Trafic de stupéfiants,93,6054
+1871,22,Trafic de stupéfiants,94,252
+1872,22,Usage de stupéfiants,1,1634
+1873,22,Usage de stupéfiants,2,1251
+1874,22,Usage de stupéfiants,3,403
+1875,22,Usage de stupéfiants,4,1268
+1876,22,Usage de stupéfiants,6,151
+1877,22,Usage de stupéfiants,11,66674
+1878,22,Usage de stupéfiants,24,5930
+1879,22,Usage de stupéfiants,27,8168
+1880,22,Usage de stupéfiants,28,12814
+1881,22,Usage de stupéfiants,32,24158
+1882,22,Usage de stupéfiants,44,13262
+1883,22,Usage de stupéfiants,52,7674
+1884,22,Usage de stupéfiants,53,8457
+1885,22,Usage de stupéfiants,75,13722
+1886,22,Usage de stupéfiants,76,20141
+1887,22,Usage de stupéfiants,84,29058
+1888,22,Usage de stupéfiants,93,36078
+1889,22,Usage de stupéfiants,94,759
+1890,22,Violences sexuelles,1,660
+1891,22,Violences sexuelles,2,697
+1892,22,Violences sexuelles,3,682
+1893,22,Violences sexuelles,4,1734
+1894,22,Violences sexuelles,6,432
+1895,22,Violences sexuelles,11,19222
+1896,22,Violences sexuelles,24,4420
+1897,22,Violences sexuelles,27,4191
+1898,22,Violences sexuelles,28,5760
+1899,22,Violences sexuelles,32,10653
+1900,22,Violences sexuelles,44,8783
+1901,22,Violences sexuelles,52,6294
+1902,22,Violences sexuelles,53,5124
+1903,22,Violences sexuelles,75,9730
+1904,22,Violences sexuelles,76,9187
+1905,22,Violences sexuelles,84,11190
+1906,22,Violences sexuelles,93,6976
+1907,22,Violences sexuelles,94,378
+1908,22,Vols avec armes,1,372
+1909,22,Vols avec armes,2,241
+1910,22,Vols avec armes,3,873
+1911,22,Vols avec armes,4,41
+1912,22,Vols avec armes,6,635
+1913,22,Vols avec armes,11,2054
+1914,22,Vols avec armes,24,162
+1915,22,Vols avec armes,27,149
+1916,22,Vols avec armes,28,236
+1917,22,Vols avec armes,32,483
+1918,22,Vols avec armes,44,304
+1919,22,Vols avec armes,52,300
+1920,22,Vols avec armes,53,178
+1921,22,Vols avec armes,75,358
+1922,22,Vols avec armes,76,510
+1923,22,Vols avec armes,84,781
+1924,22,Vols avec armes,93,880
+1925,22,Vols avec armes,94,14
+1926,22,Vols d'accessoires sur véhicules,1,373
+1927,22,Vols d'accessoires sur véhicules,2,272
+1928,22,Vols d'accessoires sur véhicules,3,158
+1929,22,Vols d'accessoires sur véhicules,4,332
+1930,22,Vols d'accessoires sur véhicules,6,57
+1931,22,Vols d'accessoires sur véhicules,11,22940
+1932,22,Vols d'accessoires sur véhicules,24,3702
+1933,22,Vols d'accessoires sur véhicules,27,3701
+1934,22,Vols d'accessoires sur véhicules,28,3559
+1935,22,Vols d'accessoires sur véhicules,32,11408
+1936,22,Vols d'accessoires sur véhicules,44,5920
+1937,22,Vols d'accessoires sur véhicules,52,7495
+1938,22,Vols d'accessoires sur véhicules,53,4291
+1939,22,Vols d'accessoires sur véhicules,75,6912
+1940,22,Vols d'accessoires sur véhicules,76,8348
+1941,22,Vols d'accessoires sur véhicules,84,12770
+1942,22,Vols d'accessoires sur véhicules,93,8817
+1943,22,Vols d'accessoires sur véhicules,94,295
+1944,22,Vols dans les véhicules,1,1852
+1945,22,Vols dans les véhicules,2,1174
+1946,22,Vols dans les véhicules,3,1366
+1947,22,Vols dans les véhicules,4,1487
+1948,22,Vols dans les véhicules,6,531
+1949,22,Vols dans les véhicules,11,55120
+1950,22,Vols dans les véhicules,24,6631
+1951,22,Vols dans les véhicules,27,5626
+1952,22,Vols dans les véhicules,28,9350
+1953,22,Vols dans les véhicules,32,21326
+1954,22,Vols dans les véhicules,44,12777
+1955,22,Vols dans les véhicules,52,16015
+1956,22,Vols dans les véhicules,53,6827
+1957,22,Vols dans les véhicules,75,18539
+1958,22,Vols dans les véhicules,76,23479
+1959,22,Vols dans les véhicules,84,35346
+1960,22,Vols dans les véhicules,93,28052
+1961,22,Vols dans les véhicules,94,320
+1962,22,Vols de véhicules,1,608
+1963,22,Vols de véhicules,2,468
+1964,22,Vols de véhicules,3,588
+1965,22,Vols de véhicules,4,1031
+1966,22,Vols de véhicules,6,387
+1967,22,Vols de véhicules,11,35783
+1968,22,Vols de véhicules,24,3614
+1969,22,Vols de véhicules,27,3554
+1970,22,Vols de véhicules,28,4513
+1971,22,Vols de véhicules,32,12126
+1972,22,Vols de véhicules,44,5952
+1973,22,Vols de véhicules,52,7542
+1974,22,Vols de véhicules,53,3814
+1975,22,Vols de véhicules,75,9138
+1976,22,Vols de véhicules,76,10041
+1977,22,Vols de véhicules,84,15992
+1978,22,Vols de véhicules,93,17463
+1979,22,Vols de véhicules,94,522
+1980,22,Vols sans violence contre des personnes,1,2770
+1981,22,Vols sans violence contre des personnes,2,1806
+1982,22,Vols sans violence contre des personnes,3,2070
+1983,22,Vols sans violence contre des personnes,4,3326
+1984,22,Vols sans violence contre des personnes,6,1160
+1985,22,Vols sans violence contre des personnes,11,230072
+1986,22,Vols sans violence contre des personnes,24,14341
+1987,22,Vols sans violence contre des personnes,27,14484
+1988,22,Vols sans violence contre des personnes,28,19681
+1989,22,Vols sans violence contre des personnes,32,41170
+1990,22,Vols sans violence contre des personnes,44,36366
+1991,22,Vols sans violence contre des personnes,52,28353
+1992,22,Vols sans violence contre des personnes,53,21484
+1993,22,Vols sans violence contre des personnes,75,45761
+1994,22,Vols sans violence contre des personnes,76,56004
+1995,22,Vols sans violence contre des personnes,84,78198
+1996,22,Vols sans violence contre des personnes,93,61545
+1997,22,Vols sans violence contre des personnes,94,1715
+1998,22,Vols violents sans arme,1,330
+1999,22,Vols violents sans arme,2,245
+2000,22,Vols violents sans arme,3,608
+2001,22,Vols violents sans arme,4,423
+2002,22,Vols violents sans arme,6,493
+2003,22,Vols violents sans arme,11,26383
+2004,22,Vols violents sans arme,24,1105
+2005,22,Vols violents sans arme,27,766
+2006,22,Vols violents sans arme,28,1760
+2007,22,Vols violents sans arme,32,3849
+2008,22,Vols violents sans arme,44,2086
+2009,22,Vols violents sans arme,52,1762
+2010,22,Vols violents sans arme,53,1237
+2011,22,Vols violents sans arme,75,2687
+2012,22,Vols violents sans arme,76,3793
+2013,22,Vols violents sans arme,84,6126
+2014,22,Vols violents sans arme,93,5741
+2015,22,Vols violents sans arme,94,56
+2016,23,Autres coups et blessures volontaires,1,1562
+2017,23,Autres coups et blessures volontaires,2,1284
+2018,23,Autres coups et blessures volontaires,3,1312
+2019,23,Autres coups et blessures volontaires,4,2474
+2020,23,Autres coups et blessures volontaires,6,1357
+2021,23,Autres coups et blessures volontaires,11,28230
+2022,23,Autres coups et blessures volontaires,24,4421
+2023,23,Autres coups et blessures volontaires,27,5315
+2024,23,Autres coups et blessures volontaires,28,6486
+2025,23,Autres coups et blessures volontaires,32,13791
+2026,23,Autres coups et blessures volontaires,44,11378
+2027,23,Autres coups et blessures volontaires,52,5978
+2028,23,Autres coups et blessures volontaires,53,5490
+2029,23,Autres coups et blessures volontaires,75,11233
+2030,23,Autres coups et blessures volontaires,76,13154
+2031,23,Autres coups et blessures volontaires,84,16291
+2032,23,Autres coups et blessures volontaires,93,12787
+2033,23,Autres coups et blessures volontaires,94,668
+2034,23,Cambriolages de logement,1,1061
+2035,23,Cambriolages de logement,2,945
+2036,23,Cambriolages de logement,3,1123
+2037,23,Cambriolages de logement,4,720
+2038,23,Cambriolages de logement,6,405
+2039,23,Cambriolages de logement,11,45145
+2040,23,Cambriolages de logement,24,8201
+2041,23,Cambriolages de logement,27,6700
+2042,23,Cambriolages de logement,28,7999
+2043,23,Cambriolages de logement,32,17212
+2044,23,Cambriolages de logement,44,13552
+2045,23,Cambriolages de logement,52,11940
+2046,23,Cambriolages de logement,53,8899
+2047,23,Cambriolages de logement,75,20480
+2048,23,Cambriolages de logement,76,20822
+2049,23,Cambriolages de logement,84,28632
+2050,23,Cambriolages de logement,93,22849
+2051,23,Cambriolages de logement,94,393
+2052,23,Coups et blessures volontaires,1,3278
+2053,23,Coups et blessures volontaires,2,2996
+2054,23,Coups et blessures volontaires,3,2639
+2055,23,Coups et blessures volontaires,4,6561
+2056,23,Coups et blessures volontaires,6,1887
+2057,23,Coups et blessures volontaires,11,65453
+2058,23,Coups et blessures volontaires,24,11325
+2059,23,Coups et blessures volontaires,27,12493
+2060,23,Coups et blessures volontaires,28,16013
+2061,23,Coups et blessures volontaires,32,36843
+2062,23,Coups et blessures volontaires,44,27015
+2063,23,Coups et blessures volontaires,52,14513
+2064,23,Coups et blessures volontaires,53,13256
+2065,23,Coups et blessures volontaires,75,26394
+2066,23,Coups et blessures volontaires,76,28684
+2067,23,Coups et blessures volontaires,84,35740
+2068,23,Coups et blessures volontaires,93,28288
+2069,23,Coups et blessures volontaires,94,1512
+2070,23,Coups et blessures volontaires intrafamiliaux,1,1716
+2071,23,Coups et blessures volontaires intrafamiliaux,2,1712
+2072,23,Coups et blessures volontaires intrafamiliaux,3,1327
+2073,23,Coups et blessures volontaires intrafamiliaux,4,4087
+2074,23,Coups et blessures volontaires intrafamiliaux,6,530
+2075,23,Coups et blessures volontaires intrafamiliaux,11,37223
+2076,23,Coups et blessures volontaires intrafamiliaux,24,6904
+2077,23,Coups et blessures volontaires intrafamiliaux,27,7178
+2078,23,Coups et blessures volontaires intrafamiliaux,28,9527
+2079,23,Coups et blessures volontaires intrafamiliaux,32,23052
+2080,23,Coups et blessures volontaires intrafamiliaux,44,15637
+2081,23,Coups et blessures volontaires intrafamiliaux,52,8535
+2082,23,Coups et blessures volontaires intrafamiliaux,53,7766
+2083,23,Coups et blessures volontaires intrafamiliaux,75,15161
+2084,23,Coups et blessures volontaires intrafamiliaux,76,15530
+2085,23,Coups et blessures volontaires intrafamiliaux,84,19449
+2086,23,Coups et blessures volontaires intrafamiliaux,93,15501
+2087,23,Coups et blessures volontaires intrafamiliaux,94,844
+2088,23,Destructions et dégradations volontaires,1,2717
+2089,23,Destructions et dégradations volontaires,2,2066
+2090,23,Destructions et dégradations volontaires,3,1495
+2091,23,Destructions et dégradations volontaires,4,4975
+2092,23,Destructions et dégradations volontaires,6,2514
+2093,23,Destructions et dégradations volontaires,11,110630
+2094,23,Destructions et dégradations volontaires,24,18167
+2095,23,Destructions et dégradations volontaires,27,19771
+2096,23,Destructions et dégradations volontaires,28,24831
+2097,23,Destructions et dégradations volontaires,32,55400
+2098,23,Destructions et dégradations volontaires,44,42962
+2099,23,Destructions et dégradations volontaires,52,27206
+2100,23,Destructions et dégradations volontaires,53,24228
+2101,23,Destructions et dégradations volontaires,75,45464
+2102,23,Destructions et dégradations volontaires,76,50295
+2103,23,Destructions et dégradations volontaires,84,66041
+2104,23,Destructions et dégradations volontaires,93,50220
+2105,23,Destructions et dégradations volontaires,94,3155
+2106,23,Escroqueries,1,1568
+2107,23,Escroqueries,2,1220
+2108,23,Escroqueries,3,677
+2109,23,Escroqueries,4,2274
+2110,23,Escroqueries,6,455
+2111,23,Escroqueries,11,95892
+2112,23,Escroqueries,24,15072
+2113,23,Escroqueries,27,14991
+2114,23,Escroqueries,28,17448
+2115,23,Escroqueries,32,31166
+2116,23,Escroqueries,44,27791
+2117,23,Escroqueries,52,20516
+2118,23,Escroqueries,53,19405
+2119,23,Escroqueries,75,35737
+2120,23,Escroqueries,76,37733
+2121,23,Escroqueries,84,48966
+2122,23,Escroqueries,93,35240
+2123,23,Escroqueries,94,1634
+2124,23,Homicides,1,37
+2125,23,Homicides,2,26
+2126,23,Homicides,3,58
+2127,23,Homicides,4,19
+2128,23,Homicides,6,14
+2129,23,Homicides,11,156
+2130,23,Homicides,24,29
+2131,23,Homicides,27,21
+2132,23,Homicides,28,47
+2133,23,Homicides,32,92
+2134,23,Homicides,44,44
+2135,23,Homicides,52,35
+2136,23,Homicides,53,41
+2137,23,Homicides,75,68
+2138,23,Homicides,76,79
+2139,23,Homicides,84,84
+2140,23,Homicides,93,134
+2141,23,Homicides,94,12
+2142,23,Trafic de stupéfiants,1,249
+2143,23,Trafic de stupéfiants,2,345
+2144,23,Trafic de stupéfiants,3,875
+2145,23,Trafic de stupéfiants,4,357
+2146,23,Trafic de stupéfiants,6,65
+2147,23,Trafic de stupéfiants,11,15698
+2148,23,Trafic de stupéfiants,24,815
+2149,23,Trafic de stupéfiants,27,1502
+2150,23,Trafic de stupéfiants,28,1162
+2151,23,Trafic de stupéfiants,32,3376
+2152,23,Trafic de stupéfiants,44,2697
+2153,23,Trafic de stupéfiants,52,1636
+2154,23,Trafic de stupéfiants,53,1740
+2155,23,Trafic de stupéfiants,75,2545
+2156,23,Trafic de stupéfiants,76,4373
+2157,23,Trafic de stupéfiants,84,4813
+2158,23,Trafic de stupéfiants,93,6361
+2159,23,Trafic de stupéfiants,94,179
+2160,23,Usage de stupéfiants,1,1920
+2161,23,Usage de stupéfiants,2,1199
+2162,23,Usage de stupéfiants,3,704
+2163,23,Usage de stupéfiants,4,2414
+2164,23,Usage de stupéfiants,6,226
+2165,23,Usage de stupéfiants,11,70030
+2166,23,Usage de stupéfiants,24,5736
+2167,23,Usage de stupéfiants,27,9139
+2168,23,Usage de stupéfiants,28,12903
+2169,23,Usage de stupéfiants,32,23724
+2170,23,Usage de stupéfiants,44,14440
+2171,23,Usage de stupéfiants,52,8537
+2172,23,Usage de stupéfiants,53,8551
+2173,23,Usage de stupéfiants,75,14637
+2174,23,Usage de stupéfiants,76,21171
+2175,23,Usage de stupéfiants,84,28978
+2176,23,Usage de stupéfiants,93,37290
+2177,23,Usage de stupéfiants,94,849
+2178,23,Violences sexuelles,1,689
+2179,23,Violences sexuelles,2,707
+2180,23,Violences sexuelles,3,714
+2181,23,Violences sexuelles,4,2042
+2182,23,Violences sexuelles,6,465
+2183,23,Violences sexuelles,11,19754
+2184,23,Violences sexuelles,24,4655
+2185,23,Violences sexuelles,27,4685
+2186,23,Violences sexuelles,28,6307
+2187,23,Violences sexuelles,32,11959
+2188,23,Violences sexuelles,44,8877
+2189,23,Violences sexuelles,52,6879
+2190,23,Violences sexuelles,53,5429
+2191,23,Violences sexuelles,75,10956
+2192,23,Violences sexuelles,76,9802
+2193,23,Violences sexuelles,84,12194
+2194,23,Violences sexuelles,93,7584
+2195,23,Violences sexuelles,94,374
+2196,23,Vols avec armes,1,478
+2197,23,Vols avec armes,2,213
+2198,23,Vols avec armes,3,858
+2199,23,Vols avec armes,4,50
+2200,23,Vols avec armes,6,634
+2201,23,Vols avec armes,11,1922
+2202,23,Vols avec armes,24,172
+2203,23,Vols avec armes,27,174
+2204,23,Vols avec armes,28,196
+2205,23,Vols avec armes,32,503
+2206,23,Vols avec armes,44,341
+2207,23,Vols avec armes,52,275
+2208,23,Vols avec armes,53,163
+2209,23,Vols avec armes,75,401
+2210,23,Vols avec armes,76,519
+2211,23,Vols avec armes,84,814
+2212,23,Vols avec armes,93,947
+2213,23,Vols avec armes,94,19
+2214,23,Vols d'accessoires sur véhicules,1,355
+2215,23,Vols d'accessoires sur véhicules,2,318
+2216,23,Vols d'accessoires sur véhicules,3,205
+2217,23,Vols d'accessoires sur véhicules,4,358
+2218,23,Vols d'accessoires sur véhicules,6,71
+2219,23,Vols d'accessoires sur véhicules,11,21334
+2220,23,Vols d'accessoires sur véhicules,24,3901
+2221,23,Vols d'accessoires sur véhicules,27,3441
+2222,23,Vols d'accessoires sur véhicules,28,3596
+2223,23,Vols d'accessoires sur véhicules,32,9300
+2224,23,Vols d'accessoires sur véhicules,44,5098
+2225,23,Vols d'accessoires sur véhicules,52,6897
+2226,23,Vols d'accessoires sur véhicules,53,4043
+2227,23,Vols d'accessoires sur véhicules,75,6669
+2228,23,Vols d'accessoires sur véhicules,76,7718
+2229,23,Vols d'accessoires sur véhicules,84,10990
+2230,23,Vols d'accessoires sur véhicules,93,7994
+2231,23,Vols d'accessoires sur véhicules,94,292
+2232,23,Vols dans les véhicules,1,1830
+2233,23,Vols dans les véhicules,2,1007
+2234,23,Vols dans les véhicules,3,1240
+2235,23,Vols dans les véhicules,4,1826
+2236,23,Vols dans les véhicules,6,605
+2237,23,Vols dans les véhicules,11,57134
+2238,23,Vols dans les véhicules,24,7098
+2239,23,Vols dans les véhicules,27,4951
+2240,23,Vols dans les véhicules,28,10101
+2241,23,Vols dans les véhicules,32,21771
+2242,23,Vols dans les véhicules,44,14257
+2243,23,Vols dans les véhicules,52,12899
+2244,23,Vols dans les véhicules,53,7381
+2245,23,Vols dans les véhicules,75,22281
+2246,23,Vols dans les véhicules,76,22147
+2247,23,Vols dans les véhicules,84,37520
+2248,23,Vols dans les véhicules,93,30180
+2249,23,Vols dans les véhicules,94,355
+2250,23,Vols de véhicules,1,850
+2251,23,Vols de véhicules,2,528
+2252,23,Vols de véhicules,3,588
+2253,23,Vols de véhicules,4,1065
+2254,23,Vols de véhicules,6,457
+2255,23,Vols de véhicules,11,34169
+2256,23,Vols de véhicules,24,4335
+2257,23,Vols de véhicules,27,3587
+2258,23,Vols de véhicules,28,4797
+2259,23,Vols de véhicules,32,13651
+2260,23,Vols de véhicules,44,6406
+2261,23,Vols de véhicules,52,8270
+2262,23,Vols de véhicules,53,4296
+2263,23,Vols de véhicules,75,9930
+2264,23,Vols de véhicules,76,10767
+2265,23,Vols de véhicules,84,18037
+2266,23,Vols de véhicules,93,17606
+2267,23,Vols de véhicules,94,578
+2268,23,Vols sans violence contre des personnes,1,2758
+2269,23,Vols sans violence contre des personnes,2,1890
+2270,23,Vols sans violence contre des personnes,3,2028
+2271,23,Vols sans violence contre des personnes,4,3445
+2272,23,Vols sans violence contre des personnes,6,1615
+2273,23,Vols sans violence contre des personnes,11,219909
+2274,23,Vols sans violence contre des personnes,24,14454
+2275,23,Vols sans violence contre des personnes,27,14516
+2276,23,Vols sans violence contre des personnes,28,19346
+2277,23,Vols sans violence contre des personnes,32,39881
+2278,23,Vols sans violence contre des personnes,44,37167
+2279,23,Vols sans violence contre des personnes,52,27108
+2280,23,Vols sans violence contre des personnes,53,21567
+2281,23,Vols sans violence contre des personnes,75,45507
+2282,23,Vols sans violence contre des personnes,76,55576
+2283,23,Vols sans violence contre des personnes,84,75271
+2284,23,Vols sans violence contre des personnes,93,58339
+2285,23,Vols sans violence contre des personnes,94,1766
+2286,23,Vols violents sans arme,1,415
+2287,23,Vols violents sans arme,2,248
+2288,23,Vols violents sans arme,3,552
+2289,23,Vols violents sans arme,4,458
+2290,23,Vols violents sans arme,6,540
+2291,23,Vols violents sans arme,11,22221
+2292,23,Vols violents sans arme,24,978
+2293,23,Vols violents sans arme,27,794
+2294,23,Vols violents sans arme,28,1562
+2295,23,Vols violents sans arme,32,3824
+2296,23,Vols violents sans arme,44,2003
+2297,23,Vols violents sans arme,52,1644
+2298,23,Vols violents sans arme,53,1335
+2299,23,Vols violents sans arme,75,2719
+2300,23,Vols violents sans arme,76,3847
+2301,23,Vols violents sans arme,84,5486
+2302,23,Vols violents sans arme,93,5573
+2303,23,Vols violents sans arme,94,71
